@@ -1,0 +1,62 @@
+[2025-03-04 11:34:18,690] 18 root - INFO - Models have been loaded..
+[2025-03-04 11:34:20,692] 23 root - INFO - Arduino connected..
+[2025-03-04 11:34:20,692] 168 root - INFO - Starting Full Sorting Process....
+[2025-03-04 11:34:26,156] 51 root - INFO - Command 'O' sent to Arduino. Response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-04 11:34:28,157] 173 root - INFO - Starting Cycle 1....
+[2025-03-04 11:34:29,162] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating Opening Plate Clockwise.
+[2025-03-04 11:34:33,087] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:34:33,089] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:34:33,090] 152 root - INFO - Expanded Red Box to: X2=450, Y2=350.
+[2025-03-04 11:34:34,092] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Opening Plate Stopped.
+[2025-03-04 11:34:37,415] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:34:37,415] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:34:37,415] 152 root - INFO - Expanded Red Box to: X2=500, Y2=400.
+[2025-03-04 11:34:38,419] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating Opening Plate Counterclockwise.
+[2025-03-04 11:34:41,989] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:34:41,989] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:34:41,989] 152 root - INFO - Expanded Red Box to: X2=550, Y2=450.
+[2025-03-04 11:34:42,992] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Opening Plate Stopped.
+[2025-03-04 11:34:46,314] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:34:46,315] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:34:46,316] 152 root - INFO - Expanded Red Box to: X2=600, Y2=500.
+[2025-03-04 11:34:47,316] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Starting sequence....
+[2025-03-04 11:34:48,318] 51 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino. Response: Rotating plate at full speed....
+[2025-03-04 11:34:48,319] 173 root - INFO - Starting Cycle 2....
+[2025-03-04 11:34:49,323] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:34:52,883] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:34:52,884] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:34:52,884] 152 root - INFO - Expanded Red Box to: X2=650, Y2=550.
+[2025-03-04 11:34:53,886] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:34:57,258] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:34:57,258] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:34:57,258] 152 root - INFO - Expanded Red Box to: X2=700, Y2=600.
+[2025-03-04 11:34:58,261] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:35:01,589] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:35:01,589] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:35:01,590] 152 root - INFO - Expanded Red Box to: X2=750, Y2=650.
+[2025-03-04 11:35:02,594] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:35:06,183] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:35:06,183] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:35:06,183] 152 root - INFO - Expanded Red Box to: X2=800, Y2=700.
+[2025-03-04 11:35:07,185] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Starting sequence....
+[2025-03-04 11:35:08,189] 51 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino. Response: Rotating plate at full speed....
+[2025-03-04 11:35:08,190] 173 root - INFO - Starting Cycle 3....
+[2025-03-04 11:35:09,194] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:35:12,458] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:35:12,459] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:35:12,459] 152 root - INFO - Expanded Red Box to: X2=850, Y2=750.
+[2025-03-04 11:35:13,462] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:35:16,765] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:35:16,766] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:35:16,766] 152 root - INFO - Expanded Red Box to: X2=900, Y2=800.
+[2025-03-04 11:35:17,769] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:35:21,155] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:35:21,156] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:35:21,156] 152 root - INFO - Expanded Red Box to: X2=950, Y2=850.
+[2025-03-04 11:35:23,164] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: .
+[2025-03-04 11:35:26,913] 58 root - INFO - ESP8266 Response: â\x9c\x85 Flag received: 2.
+[2025-03-04 11:35:26,914] 139 root - INFO - Biodegradable object detected in red box. Moving to bio bucket..
+[2025-03-04 11:35:26,914] 152 root - INFO - Expanded Red Box to: X2=1000, Y2=900.
+[2025-03-04 11:35:27,918] 51 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating plate at 50% speed....
+[2025-03-04 11:35:29,920] 51 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino. Response: .
+[2025-03-04 11:35:29,921] 173 root - INFO - Starting Cycle 4....

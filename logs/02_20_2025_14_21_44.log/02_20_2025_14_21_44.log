@@ -1,0 +1,29 @@
+[2025-02-20 14:21:45,045] 18 root - INFO - models been read..
+[2025-02-20 14:21:47,048] 24 root - INFO - arduino got connected..
+[2025-02-20 14:21:49,212] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 14:21:50,735] 80 root - INFO - Class detected: {detected_class}.
+[2025-02-20 14:21:51,738] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:21:53,752] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:21:55,766] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:21:58,811] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:02,009] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 14:22:02,301] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-20 14:22:02,302] 134 root - INFO - {selected_flag} been sent.
+[2025-02-20 14:22:03,304] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:06,306] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:08,308] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:11,362] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 14:22:11,534] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-20 14:22:11,534] 134 root - INFO - {selected_flag} been sent.
+[2025-02-20 14:22:12,537] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:15,539] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:17,541] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:20,682] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 14:22:21,781] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:24,785] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:26,786] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:30,487] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 14:22:30,862] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-20 14:22:30,862] 134 root - INFO - {selected_flag} been sent.
+[2025-02-20 14:22:31,863] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 14:22:34,866] 42 root - INFO - Command '{cmd}' been sent to arduino.

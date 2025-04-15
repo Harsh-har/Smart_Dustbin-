@@ -1,0 +1,9 @@
+[2025-03-03 16:42:12,569] 22 root - INFO - Models have been loaded..
+[2025-03-03 16:42:14,572] 28 root - INFO - Arduino connected..
+[2025-03-03 16:42:20,531] 72 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured successfully..
+[2025-03-03 16:42:24,252] 46 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 16:42:27,260] 46 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 16:42:30,365] 72 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured successfully..
+[2025-03-03 16:42:30,824] 132 root - INFO - Detected BiogasReady inside red box!.
+[2025-03-03 16:42:30,935] 54 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-03 16:42:31,939] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.

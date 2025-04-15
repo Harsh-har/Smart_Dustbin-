@@ -1,0 +1,3 @@
+[2025-03-03 16:54:33,786] 22 root - INFO - Models have been loaded..
+[2025-03-03 16:54:35,790] 28 root - INFO - Arduino connected..
+[2025-03-03 16:54:47,000] 46 root - INFO - Command 'MOVE' sent to Arduino.

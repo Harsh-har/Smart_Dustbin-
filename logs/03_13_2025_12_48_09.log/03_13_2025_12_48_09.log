@@ -1,0 +1,22 @@
+[2025-03-13 12:48:09,991] 18 root - INFO - Models have been loaded..
+[2025-03-13 12:48:11,993] 24 root - INFO - Arduino connected..
+[2025-03-13 12:48:14,179] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 12:48:15,598] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 12:48:15,636] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 12:48:15,777] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 12:48:16,805] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 12:48:16,938] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 12:48:17,947] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 12:48:19,997] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 12:48:30,354] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 12:48:42,535] 173 root - INFO - Ignored large bounding box: (0, 0, 697, 599).
+[2025-03-13 12:48:42,865] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 12:48:50,269] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 12:49:02,369] 173 root - INFO - Ignored large bounding box: (0, 0, 699, 599).
+[2025-03-13 12:49:02,486] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 12:49:10,704] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 12:49:22,802] 173 root - INFO - Ignored large bounding box: (2, 7, 699, 600).
+[2025-03-13 12:49:22,806] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-13 12:49:32,085] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 12:49:44,190] 173 root - INFO - Ignored large bounding box: (0, 2, 707, 600).
+[2025-03-13 12:49:44,379] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..

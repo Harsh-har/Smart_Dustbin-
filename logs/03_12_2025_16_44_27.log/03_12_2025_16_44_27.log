@@ -1,0 +1,25 @@
+[2025-03-12 16:44:27,719] 18 root - INFO - Models have been loaded..
+[2025-03-12 16:44:29,721] 24 root - INFO - Arduino connected..
+[2025-03-12 16:44:31,941] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 16:44:35,425] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 16:44:35,454] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-12 16:44:39,973] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-12 16:44:40,997] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 16:44:41,136] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 16:44:42,161] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 16:44:42,294] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 16:44:43,304] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 16:44:45,351] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 16:44:55,607] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 16:45:08,030] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 16:45:15,883] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 16:45:27,996] 173 root - INFO - Ignored large bounding box: (312, 17, 682, 600).
+[2025-03-12 16:45:27,996] 173 root - INFO - Ignored large bounding box: (11, 0, 341, 600).
+[2025-03-12 16:45:27,996] 173 root - INFO - Ignored large bounding box: (17, 8, 687, 600).
+[2025-03-12 16:45:28,111] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 16:45:35,427] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 16:45:47,564] 173 root - INFO - Ignored large bounding box: (10, 0, 343, 600).
+[2025-03-12 16:45:47,670] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 16:45:55,139] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 16:46:07,310] 173 root - INFO - Ignored large bounding box: (37, 8, 693, 599).
+[2025-03-12 16:46:07,423] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..

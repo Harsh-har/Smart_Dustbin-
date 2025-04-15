@@ -1,0 +1,9 @@
+[2025-03-11 10:59:48,878] 18 root - INFO - Models have been loaded..
+[2025-03-11 10:59:50,880] 24 root - INFO - Arduino connected..
+[2025-03-11 10:59:53,016] 81 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 10:59:58,129] 47 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 10:59:58,158] 47 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 11:00:02,676] 47 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 11:00:03,700] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 11:00:03,840] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:00:08,104] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

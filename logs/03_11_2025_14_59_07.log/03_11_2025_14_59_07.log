@@ -1,0 +1,19 @@
+[2025-03-11 14:59:08,025] 18 root - INFO - Models have been loaded..
+[2025-03-11 14:59:10,027] 24 root - INFO - Arduino connected..
+[2025-03-11 14:59:12,102] 81 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 14:59:15,618] 47 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 14:59:15,648] 47 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 14:59:20,166] 47 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 14:59:21,190] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 14:59:21,329] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 14:59:22,354] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 14:59:22,486] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 14:59:23,495] 47 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 14:59:27,862] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:00:10,387] 54 root - ERROR - Timeout for command STOP.
+[2025-03-11 15:00:10,433] 47 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 15:00:14,802] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:00:26,908] 47 root - INFO - Command 'STOP' received response: Resuming MULTI_SINGLE....
+[2025-03-11 15:00:26,908] 47 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-11 15:00:31,254] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:01:13,616] 54 root - ERROR - Timeout for command STOP.

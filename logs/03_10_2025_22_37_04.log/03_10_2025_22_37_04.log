@@ -1,0 +1,35 @@
+[2025-03-10 22:37:04,539] 18 root - INFO - Models have been loaded..
+[2025-03-10 22:37:06,543] 24 root - INFO - Arduino connected..
+[2025-03-10 22:37:09,736] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:37:16,427] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 22:37:20,546] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:37:21,292] 139 root - INFO - Ignored large bounding box: (29, 0, 785, 600).
+[2025-03-10 22:37:21,293] 139 root - INFO - Ignored large bounding box: (438, 0, 789, 600).
+[2025-03-10 22:37:22,297] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:23,311] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:27,415] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:37:27,833] 139 root - INFO - Ignored large bounding box: (442, 0, 791, 600).
+[2025-03-10 22:37:27,833] 139 root - INFO - Ignored large bounding box: (48, 0, 788, 600).
+[2025-03-10 22:37:28,840] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:29,845] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:34,019] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:37:34,414] 139 root - INFO - Ignored large bounding box: (439, 1, 789, 599).
+[2025-03-10 22:37:35,462] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:37,470] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:41,598] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:37:41,995] 139 root - INFO - Ignored large bounding box: (439, 0, 789, 600).
+[2025-03-10 22:37:43,999] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:46,004] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:50,119] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:37:52,513] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:54,530] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:37:58,692] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:38:01,144] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:38:03,164] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:38:07,242] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:38:07,657] 139 root - INFO - Ignored large bounding box: (441, 0, 790, 600).
+[2025-03-10 22:38:09,671] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:38:11,677] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:38:15,789] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 22:38:18,323] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 22:38:20,339] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.

@@ -1,0 +1,9 @@
+[2025-03-24 14:18:43,923] 17 root - INFO - Models have been loaded..
+[2025-03-24 14:18:46,328] 73 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-24 14:18:49,550] 45 root - INFO - Sent 'O', ESP Response: Command Sent: O.
+[2025-03-24 14:18:51,617] 45 root - INFO - Sent 'MOVE_SINGLE', ESP Response: Command Sent: MOVE_SINGLE.
+[2025-03-24 14:18:57,967] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:19:10,724] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-24 14:19:14,793] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:19:27,134] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-24 14:19:31,761] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..

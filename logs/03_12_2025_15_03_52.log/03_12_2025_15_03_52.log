@@ -1,0 +1,21 @@
+[2025-03-12 15:03:52,096] 18 root - INFO - Models have been loaded..
+[2025-03-12 15:03:54,098] 24 root - INFO - Arduino connected..
+[2025-03-12 15:03:57,360] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 15:03:58,989] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 15:03:59,029] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 15:03:59,168] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 15:04:00,195] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 15:04:00,328] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 15:04:01,338] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 15:04:03,390] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 15:04:13,687] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:04:25,881] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-12 15:04:39,765] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:04:51,870] 173 root - INFO - Ignored large bounding box: (5, 3, 342, 501).
+[2025-03-12 15:04:51,874] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-12 15:05:01,085] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:05:13,398] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 15:05:20,655] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:05:32,762] 173 root - INFO - Ignored large bounding box: (6, 1, 340, 594).
+[2025-03-12 15:05:32,764] 173 root - INFO - Ignored large bounding box: (0, 0, 697, 600).
+[2025-03-12 15:05:32,769] 59 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....

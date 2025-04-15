@@ -1,0 +1,20 @@
+[2025-03-11 11:39:02,191] 18 root - INFO - Models have been loaded..
+[2025-03-11 11:39:04,194] 24 root - INFO - Arduino connected..
+[2025-03-11 11:39:06,464] 82 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:39:11,048] 48 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 11:39:11,077] 48 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 11:39:15,595] 48 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 11:39:16,620] 48 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 11:39:16,758] 48 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:39:17,782] 48 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 11:39:17,916] 48 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:39:18,925] 48 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 11:39:24,196] 99 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:39:37,460] 48 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 11:39:41,685] 99 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:39:54,231] 48 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....
+[2025-03-11 11:39:58,403] 99 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:40:10,938] 155 root - INFO - Ignored large bounding box: (25, 19, 789, 600).
+[2025-03-11 11:40:11,121] 64 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 11:40:12,126] 48 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at 50% speed....
+[2025-03-11 11:40:18,130] 48 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....

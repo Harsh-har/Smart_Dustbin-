@@ -1,0 +1,24 @@
+[2025-03-12 17:13:00,948] 18 root - INFO - Models have been loaded..
+[2025-03-12 17:13:02,951] 24 root - INFO - Arduino connected..
+[2025-03-12 17:13:05,623] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 17:13:08,879] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 17:13:08,917] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 17:13:09,056] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 17:13:10,082] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 17:13:10,214] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 17:13:11,226] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 17:13:13,277] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 17:13:26,102] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:13:38,690] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 17:13:38,695] 59 root - INFO - Command 'FLAG_RESET' received response: Rotating plate at full speed....
+[2025-03-12 17:13:49,185] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:14:01,428] 173 root - INFO - Ignored large bounding box: (0, 2, 686, 600).
+[2025-03-12 17:14:01,430] 173 root - INFO - Ignored large bounding box: (9, 3, 346, 580).
+[2025-03-12 17:14:01,592] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 17:14:01,597] 59 root - INFO - Command 'FLAG_RESET' received response: Flag reset. Flag action can run again..
+[2025-03-12 17:14:08,919] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:14:21,159] 173 root - INFO - Ignored large bounding box: (1, 0, 689, 600).
+[2025-03-12 17:14:21,166] 59 root - INFO - Command 'MOVE_MULTI' received response: Flag reset. Flag action can run again..
+[2025-03-12 17:14:30,486] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:14:42,871] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 17:14:42,874] 59 root - INFO - Command 'FLAG_RESET' received response: MOVE_MULTI WITHOUT SPEED.

@@ -1,0 +1,4 @@
+[2025-03-13 10:55:02,648] 18 root - INFO - Models have been loaded..
+[2025-03-13 10:55:04,650] 24 root - INFO - Arduino connected..
+[2025-03-13 10:55:06,827] 94 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 10:55:39,381] 66 root - ERROR - Timeout for command O.

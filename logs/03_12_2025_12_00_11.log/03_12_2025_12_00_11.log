@@ -1,0 +1,13 @@
+[2025-03-12 12:00:11,987] 18 root - INFO - Models have been loaded..
+[2025-03-12 12:00:13,990] 24 root - INFO - Arduino connected..
+[2025-03-12 12:00:16,786] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 12:00:18,157] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 12:00:18,195] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 12:00:18,334] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 12:00:20,368] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 12:00:20,499] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 12:00:48,741] 66 root - ERROR - Timeout for command O.
+[2025-03-12 12:01:21,015] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-12 12:01:33,289] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 12:01:45,557] 173 root - INFO - Ignored large bounding box: (15, 2, 343, 505).
+[2025-03-12 12:02:15,843] 66 root - ERROR - Timeout for command MOVE_MULTI.

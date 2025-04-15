@@ -1,0 +1,8 @@
+[2025-03-11 00:13:21,242] 18 root - INFO - Models have been loaded..
+[2025-03-11 00:13:23,246] 24 root - INFO - Arduino connected..
+[2025-03-11 00:13:25,966] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 00:13:28,374] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-11 00:13:32,511] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 00:13:33,709] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-11 00:13:34,714] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-11 00:13:38,858] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

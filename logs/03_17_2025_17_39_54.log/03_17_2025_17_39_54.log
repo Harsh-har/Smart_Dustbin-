@@ -1,0 +1,12 @@
+[2025-03-17 17:39:55,035] 18 root - INFO - Models have been loaded..
+[2025-03-17 17:39:57,042] 24 root - INFO - Arduino connected..
+[2025-03-17 17:39:59,428] 96 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 17:40:31,130] 67 root - ERROR - Timeout for command O.
+[2025-03-17 17:41:03,362] 67 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-17 17:41:09,474] 114 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 17:41:53,961] 67 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-17 17:41:58,326] 114 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 17:42:10,429] 174 root - INFO - Ignored large bounding box: (0, 58, 408, 569) and class nonbiogasready.
+[2025-03-17 17:42:42,666] 67 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-17 17:42:46,844] 114 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 17:42:58,994] 174 root - INFO - Ignored large bounding box: (1, 12, 674, 599) and class nonbiogasready.

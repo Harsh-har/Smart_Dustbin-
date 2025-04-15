@@ -1,0 +1,22 @@
+[2025-03-10 12:53:13,531] 18 root - INFO - Models have been loaded..
+[2025-03-10 12:53:15,533] 24 root - INFO - Arduino connected..
+[2025-03-10 12:53:42,857] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:53:45,465] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 12:53:46,469] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:53:48,581] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:53:48,964] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 12:53:49,967] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:53:52,109] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:53:53,354] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:53:55,447] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:53:55,796] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 12:53:56,801] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:53:58,934] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:54:01,152] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:54:03,540] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:54:05,790] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:54:07,878] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:54:08,140] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 12:54:09,144] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 12:54:11,324] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 12:54:13,612] 45 root - INFO - Command 'MOVE' sent to Arduino.

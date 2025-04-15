@@ -1,0 +1,52 @@
+[2025-03-04 14:38:02,273] 18 root - INFO - Models have been loaded..
+[2025-03-04 14:38:04,275] 24 root - INFO - Arduino connected..
+[2025-03-04 14:38:06,636] 67 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-04 14:38:09,032] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-04 14:38:12,040] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:15,211] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 14:38:15,558] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-04 14:38:15,558] 156 root - INFO - 4 been sent.
+[2025-03-04 14:38:16,560] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:18,776] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-04 14:38:18,777] 156 root - INFO - 4 been sent.
+[2025-03-04 14:38:19,782] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:20,971] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-04 14:38:20,971] 156 root - INFO - 4 been sent.
+[2025-03-04 14:38:21,975] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:23,165] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-04 14:38:23,165] 156 root - INFO - 4 been sent.
+[2025-03-04 14:38:24,169] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:25,364] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-04 14:38:25,364] 156 root - INFO - 4 been sent.
+[2025-03-04 14:38:26,368] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:28,374] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:31,510] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 14:38:33,626] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:36,736] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:39,842] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:42,949] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:46,060] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:49,067] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:52,218] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 14:38:54,339] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:38:57,445] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:00,554] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:03,659] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:06,765] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:09,771] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:14,595] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 14:39:15,224] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 14:39:15,226] 156 root - INFO - 5 been sent.
+[2025-03-04 14:39:17,240] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:18,424] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 14:39:18,425] 156 root - INFO - 5 been sent.
+[2025-03-04 14:39:20,437] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:21,638] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 14:39:21,639] 156 root - INFO - 5 been sent.
+[2025-03-04 14:39:23,657] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:24,860] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 14:39:24,860] 156 root - INFO - 5 been sent.
+[2025-03-04 14:39:26,870] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 14:39:28,064] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 14:39:28,064] 156 root - INFO - 5 been sent.
+[2025-03-04 14:39:30,069] 42 root - INFO - Command 'MOVE' sent to Arduino.

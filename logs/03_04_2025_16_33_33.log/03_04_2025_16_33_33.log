@@ -1,0 +1,37 @@
+[2025-03-04 16:33:33,166] 18 root - INFO - Models have been loaded..
+[2025-03-04 16:33:35,169] 24 root - INFO - Arduino connected..
+[2025-03-04 16:33:38,606] 67 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:33:41,255] 42 root - INFO - Command 'H' sent to Arduino.
+[2025-03-04 16:33:42,760] 42 root - INFO - Command 'C' sent to Arduino.
+[2025-03-04 16:33:44,266] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-04 16:33:47,271] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:33:50,466] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:33:50,804] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 16:33:50,804] 182 root - INFO - 5 been sent.
+[2025-03-04 16:33:51,808] 42 root - INFO - Command 'HAND_MOTOR:[5]' sent to Arduino.
+[2025-03-04 16:33:54,814] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:33:56,820] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:33:59,902] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:34:01,045] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:03,049] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:34:06,056] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:34:08,060] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:11,230] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:34:12,336] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:15,352] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:34:19,361] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:34:22,371] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:25,472] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:34:27,618] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:30,637] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:34:34,653] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:34:37,665] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:41,015] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:34:43,135] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:46,141] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:34:50,154] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:34:53,161] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:34:56,395] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:34:58,514] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:35:01,529] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:35:05,549] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.

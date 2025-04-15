@@ -1,0 +1,20 @@
+[2025-03-12 12:13:42,495] 18 root - INFO - Models have been loaded..
+[2025-03-12 12:13:44,498] 24 root - INFO - Arduino connected..
+[2025-03-12 12:13:46,695] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 12:13:48,123] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 12:13:48,162] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 12:13:48,301] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 12:13:49,328] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 12:13:49,460] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 12:13:50,470] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 12:13:52,520] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 12:14:03,540] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 12:14:15,928] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 12:14:16,933] 59 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-12 12:14:22,938] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 12:14:30,856] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 12:14:42,957] 173 root - INFO - Ignored large bounding box: (0, 0, 685, 600).
+[2025-03-12 12:14:43,125] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 12:14:44,130] 59 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-12 12:14:50,132] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-12 12:14:57,615] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

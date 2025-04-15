@@ -1,0 +1,19 @@
+[2025-03-21 15:16:36,481] 18 root - INFO - Models have been loaded..
+[2025-03-21 15:16:38,484] 24 root - INFO - Arduino connected..
+[2025-03-21 15:16:40,608] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-21 15:16:42,053] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-21 15:16:42,091] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-21 15:16:42,251] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-21 15:16:44,284] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-21 15:16:44,425] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-21 15:16:45,435] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-21 15:16:47,487] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-21 15:16:53,617] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:17:07,800] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-21 15:17:11,921] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:17:24,020] 59 root - INFO - Command 'FLAG_5' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-21 15:17:26,024] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-21 15:17:30,162] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:17:44,261] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-21 15:17:48,492] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:18:02,594] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....

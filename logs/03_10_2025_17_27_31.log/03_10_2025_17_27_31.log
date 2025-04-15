@@ -1,0 +1,4 @@
+[2025-03-10 17:27:31,328] 18 root - INFO - Models have been loaded..
+[2025-03-10 17:27:33,330] 24 root - INFO - Arduino connected..
+[2025-03-10 17:27:35,641] 72 root - INFO - Camera shot from 'http://192.168.1.103/cam-hi.jpg' captured without bounding box.
+[2025-03-10 17:27:38,014] 46 root - INFO - Command 'O' sent to Arduino.

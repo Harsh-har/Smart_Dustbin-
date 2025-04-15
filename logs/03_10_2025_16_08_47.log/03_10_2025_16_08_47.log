@@ -1,0 +1,18 @@
+[2025-03-10 16:08:47,670] 18 root - INFO - Models have been loaded..
+[2025-03-10 16:08:49,674] 24 root - INFO - Arduino connected..
+[2025-03-10 16:08:51,771] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 16:08:54,234] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 16:08:58,341] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 16:08:59,552] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 16:09:01,653] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 16:09:01,855] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 16:09:02,859] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 16:09:04,988] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 16:09:05,162] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 16:09:06,167] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 16:09:08,506] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 16:09:09,607] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 16:09:11,741] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 16:09:11,961] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 16:09:12,966] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 16:09:15,056] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

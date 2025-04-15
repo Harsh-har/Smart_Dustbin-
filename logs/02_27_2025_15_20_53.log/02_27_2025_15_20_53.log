@@ -1,0 +1,25 @@
+[2025-02-27 15:20:53,430] 18 root - INFO - models been read..
+[2025-02-27 15:20:55,434] 24 root - INFO - arduino got connected..
+[2025-02-27 15:20:58,037] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:21:00,144] 80 root - INFO - Class detected: {detected_class}.
+[2025-02-27 15:21:01,149] 42 root - INFO - Command 'H' been sent to arduino.
+[2025-02-27 15:21:03,154] 42 root - INFO - Command 'C' been sent to arduino.
+[2025-02-27 15:21:05,159] 42 root - INFO - Command 'O' been sent to arduino.
+[2025-02-27 15:21:08,165] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-27 15:21:11,670] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:21:12,228] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-27 15:21:12,239] 138 root - INFO - 5 been sent.
+[2025-02-27 15:21:14,250] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-02-27 15:21:18,266] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-27 15:21:20,314] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-27 15:21:23,447] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:21:24,598] 42 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-02-27 15:21:28,413] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-27 15:21:31,428] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-27 15:21:34,713] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:21:36,877] 42 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-02-27 15:21:40,890] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-27 15:21:42,895] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-27 15:21:45,985] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:21:47,376] 42 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-02-27 15:21:51,396] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.

@@ -1,0 +1,20 @@
+[2025-03-11 11:19:18,099] 18 root - INFO - Models have been loaded..
+[2025-03-11 11:19:20,103] 24 root - INFO - Arduino connected..
+[2025-03-11 11:19:23,272] 81 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:19:28,002] 47 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 11:19:28,034] 47 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 11:19:32,551] 47 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 11:19:33,574] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 11:19:33,715] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:19:34,739] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 11:19:34,874] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:19:35,882] 47 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 11:19:40,017] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:19:52,395] 47 root - INFO - Command 'STOP' received response: hello sab ruk gya.
+[2025-03-11 11:19:52,444] 47 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 11:19:56,578] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:20:08,812] 47 root - INFO - Command 'STOP' received response: Resuming MOVE_SINGLE....
+[2025-03-11 11:20:08,816] 47 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 11:20:12,903] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:20:25,137] 47 root - INFO - Command 'STOP' received response: Resuming MOVE_SINGLE....
+[2025-03-11 11:20:25,140] 47 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....

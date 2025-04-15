@@ -1,0 +1,6 @@
+[2025-03-26 11:09:36,235] 17 root - INFO - Models have been loaded..
+[2025-03-26 11:09:38,936] 76 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-26 11:09:43,763] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='%20192.168.1.100', port=80): Max retries exceeded with url: /command?cmd=H (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002427E00D220>: Failed to resolve '%20192.168.1.100' ([Errno 11001] getaddrinfo failed)")).
+[2025-03-26 11:09:43,763] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='%20192.168.1.100', port=80): Max retries exceeded with url: /command?cmd=C (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002427E00C560>: Failed to resolve '%20192.168.1.100' ([Errno 11001] getaddrinfo failed)")).
+[2025-03-26 11:09:45,766] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='%20192.168.1.100', port=80): Max retries exceeded with url: /command?cmd=MOVE_SINGLE (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002427E00DA90>: Failed to resolve '%20192.168.1.100' ([Errno 11001] getaddrinfo failed)")).
+[2025-03-26 11:09:51,888] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..

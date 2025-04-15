@@ -1,0 +1,17 @@
+[2025-03-03 12:11:39,751] 18 root - INFO - models been read..
+[2025-03-03 12:11:41,754] 24 root - INFO - arduino got connected..
+[2025-03-03 12:11:43,940] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:11:45,307] 80 root - INFO - Class detected: {detected_class}.
+[2025-03-03 12:11:46,311] 42 root - INFO - Command 'H' been sent to arduino.
+[2025-03-03 12:11:47,817] 42 root - INFO - Command 'C' been sent to arduino.
+[2025-03-03 12:11:49,322] 42 root - INFO - Command 'O' been sent to arduino.
+[2025-03-03 12:11:52,329] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:11:55,493] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:11:56,710] 42 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-03-03 12:11:59,714] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 12:12:01,719] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:12:05,011] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:12:06,128] 42 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-03-03 12:12:09,131] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 12:12:11,137] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:12:14,341] 68 root - INFO - camera shot '{cam_url}' done successfully.

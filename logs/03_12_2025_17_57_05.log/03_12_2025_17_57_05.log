@@ -1,0 +1,6 @@
+[2025-03-12 17:57:06,030] 274 root - INFO - Models have been loaded..
+[2025-03-12 17:57:08,034] 280 root - INFO - Arduino connected..
+[2025-03-12 17:57:10,940] 351 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 17:57:14,253] 315 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for second camera trigger....
+[2025-03-12 17:57:44,473] 322 root - ERROR - Timeout for command O.
+[2025-03-12 17:58:16,697] 322 root - ERROR - Timeout for command MOVE_SINGLE.

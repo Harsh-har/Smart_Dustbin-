@@ -1,0 +1,10 @@
+[2025-02-27 15:02:06,214] 18 root - INFO - models been read..
+[2025-02-27 15:02:08,216] 24 root - INFO - arduino got connected..
+[2025-02-27 15:02:10,310] 67 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:02:11,688] 79 root - INFO - Class detected: {detected_class}.
+[2025-02-27 15:02:21,885] 67 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:02:33,650] 67 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:02:44,992] 67 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:02:57,420] 67 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 15:02:57,784] 49 root - INFO - response '{response.text}' been sent..
+[2025-02-27 15:02:57,795] 137 root - INFO - {selected_flag} been sent.

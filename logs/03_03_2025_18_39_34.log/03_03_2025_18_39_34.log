@@ -1,0 +1,10 @@
+[2025-03-03 18:39:34,368] 20 root - INFO - Models have been loaded..
+[2025-03-03 18:39:36,372] 25 root - INFO - Arduino connected..
+[2025-03-03 18:39:40,829] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:39:43,832] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:39:47,482] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:39:49,901] 49 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-03 18:39:50,906] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:39:53,178] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:39:56,182] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:39:59,721] 42 root - INFO - Command 'MOVE' sent to Arduino.

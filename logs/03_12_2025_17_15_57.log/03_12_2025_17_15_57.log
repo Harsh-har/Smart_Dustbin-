@@ -1,0 +1,26 @@
+[2025-03-12 17:15:57,235] 18 root - INFO - Models have been loaded..
+[2025-03-12 17:15:59,238] 24 root - INFO - Arduino connected..
+[2025-03-12 17:16:02,022] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 17:16:06,888] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 17:16:06,917] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-12 17:16:11,434] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-12 17:16:12,459] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 17:16:12,599] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 17:16:13,622] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 17:16:13,755] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 17:16:14,765] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 17:16:16,815] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 17:16:27,012] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:16:39,552] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 17:16:39,556] 59 root - INFO - Command 'FLAG_RESET' received response: Rotating plate at full speed....
+[2025-03-12 17:16:46,804] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:16:59,038] 173 root - INFO - Ignored large bounding box: (0, 0, 693, 600).
+[2025-03-12 17:16:59,159] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 17:16:59,163] 59 root - INFO - Command 'FLAG_RESET' received response: Flag reset. Flag action can run again..
+[2025-03-12 17:17:06,361] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:17:18,734] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 17:17:18,739] 59 root - INFO - Command 'FLAG_RESET' received response: Flag reset. Flag action can run again..
+[2025-03-12 17:17:26,092] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 17:17:38,330] 173 root - INFO - Ignored large bounding box: (1, 0, 692, 600).
+[2025-03-12 17:17:38,480] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 17:17:38,484] 59 root - INFO - Command 'FLAG_RESET' received response: Flag reset. Flag action can run again..

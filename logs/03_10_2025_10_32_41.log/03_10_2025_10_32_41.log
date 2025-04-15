@@ -1,0 +1,23 @@
+[2025-03-10 10:32:41,356] 18 root - INFO - Models have been loaded..
+[2025-03-10 10:32:43,366] 24 root - INFO - Arduino connected..
+[2025-03-10 10:32:45,807] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:32:48,252] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 10:32:52,359] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:32:52,721] 53 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-10 10:32:53,726] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:32:55,855] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:32:56,238] 53 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-10 10:32:57,242] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:32:59,422] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:33:00,522] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:33:02,812] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:33:04,030] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:33:06,113] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:33:06,292] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 10:33:07,296] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:33:09,465] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:33:10,560] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:33:12,641] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:33:13,739] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 10:33:15,914] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 10:33:17,011] 45 root - INFO - Command 'MOVE' sent to Arduino.

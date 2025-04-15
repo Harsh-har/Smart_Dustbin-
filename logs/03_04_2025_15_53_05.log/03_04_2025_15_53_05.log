@@ -1,0 +1,25 @@
+[2025-03-04 15:53:06,021] 18 root - INFO - Models have been loaded..
+[2025-03-04 15:53:08,025] 24 root - INFO - Arduino connected..
+[2025-03-04 15:53:11,452] 67 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-04 15:53:13,843] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-04 15:53:16,850] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 15:53:19,992] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 15:53:20,541] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-04 15:53:20,543] 181 root - INFO - 4 been sent.
+[2025-03-04 15:53:21,548] 42 root - INFO - Command 'HAND_MOTOR:[4]' sent to Arduino.
+[2025-03-04 15:53:24,556] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 15:53:26,561] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 15:53:29,646] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 15:53:29,926] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 15:53:29,926] 181 root - INFO - 5 been sent.
+[2025-03-04 15:53:30,930] 42 root - INFO - Command 'HAND_MOTOR:[5, 5]' sent to Arduino.
+[2025-03-04 15:53:33,935] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 15:53:35,941] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 15:53:39,024] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 15:53:40,226] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 15:53:43,242] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 15:53:47,257] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 15:53:49,621] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 15:53:52,750] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 15:53:53,031] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-04 15:53:53,031] 181 root - INFO - 5 been sent.

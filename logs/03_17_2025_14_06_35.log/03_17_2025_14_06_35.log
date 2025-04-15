@@ -1,0 +1,4 @@
+[2025-03-17 14:06:35,465] 18 root - INFO - Models have been loaded..
+[2025-03-17 14:06:37,468] 24 root - INFO - Arduino connected..
+[2025-03-17 14:06:39,603] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 14:06:41,286] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....

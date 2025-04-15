@@ -1,0 +1,20 @@
+[2025-03-13 11:38:34,172] 18 root - INFO - Models have been loaded..
+[2025-03-13 11:38:36,174] 24 root - INFO - Arduino connected..
+[2025-03-13 11:38:38,398] 94 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 11:38:39,817] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 11:38:39,856] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 11:38:39,997] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 11:38:41,022] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 11:38:41,157] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 11:38:42,163] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 11:38:44,212] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 11:38:54,482] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:39:03,675] 172 root - INFO - Ignored large bounding box: (0, 0, 698, 600).
+[2025-03-13 11:39:03,681] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-13 11:39:14,001] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:39:23,117] 172 root - INFO - Ignored large bounding box: (7, 0, 711, 600).
+[2025-03-13 11:39:23,120] 172 root - INFO - Ignored large bounding box: (11, 0, 343, 600).
+[2025-03-13 11:39:35,288] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:39:44,385] 172 root - INFO - Ignored large bounding box: (12, 3, 344, 500).
+[2025-03-13 11:39:44,386] 172 root - INFO - Ignored large bounding box: (0, 0, 707, 600).
+[2025-03-13 11:39:44,387] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.

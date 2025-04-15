@@ -1,0 +1,20 @@
+[2025-03-03 16:33:38,526] 22 root - INFO - Models have been loaded..
+[2025-03-03 16:33:40,528] 28 root - INFO - Arduino connected..
+[2025-03-03 16:33:42,865] 72 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured successfully..
+[2025-03-03 16:33:46,082] 46 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 16:33:49,089] 46 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 16:33:52,370] 72 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured successfully..
+[2025-03-03 16:33:53,794] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:33:56,802] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:33:58,807] 46 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 16:34:01,998] 72 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured successfully..
+[2025-03-03 16:34:03,231] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:34:06,237] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:34:09,245] 46 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 16:34:13,368] 72 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured successfully..
+[2025-03-03 16:34:15,586] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:34:19,606] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:34:22,616] 46 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 16:34:26,526] 72 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured successfully..
+[2025-03-03 16:34:28,812] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 16:34:32,831] 46 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.

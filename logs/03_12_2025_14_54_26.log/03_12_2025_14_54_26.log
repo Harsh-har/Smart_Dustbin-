@@ -1,0 +1,20 @@
+[2025-03-12 14:54:26,890] 18 root - INFO - Models have been loaded..
+[2025-03-12 14:54:28,892] 24 root - INFO - Arduino connected..
+[2025-03-12 14:54:31,016] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 14:54:32,476] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 14:54:32,514] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 14:54:32,653] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 14:54:33,678] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 14:54:33,811] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 14:54:34,820] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 14:54:36,868] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 14:54:47,270] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:54:59,469] 173 root - INFO - Ignored large bounding box: (8, 2, 342, 500).
+[2025-03-12 14:54:59,474] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-12 14:55:08,615] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:55:20,804] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 14:55:27,996] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:55:40,117] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-12 14:55:49,298] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:56:01,411] 173 root - INFO - Ignored large bounding box: (18, 3, 342, 503).
+[2025-03-12 14:56:01,413] 59 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....

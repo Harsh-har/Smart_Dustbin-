@@ -1,0 +1,21 @@
+[2025-03-25 14:44:53,617] 18 root - INFO - Models have been loaded..
+[2025-03-25 14:44:55,620] 24 root - INFO - Arduino connected..
+[2025-03-25 14:44:57,714] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 14:44:59,601] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-25 14:44:59,636] 59 root - INFO - Command 'O' received response: Received Command: O.
+[2025-03-25 14:44:59,662] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-25 14:44:59,780] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 14:45:00,806] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-25 14:45:00,939] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 14:45:01,947] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-25 14:45:03,995] 59 root - INFO - Command 'MOVE_SINGLE' received response: Received Command: MOVE_SINGLE.
+[2025-03-25 14:45:10,107] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:45:24,348] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-25 14:45:28,706] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:45:40,850] 173 root - INFO - Ignored large bounding box: (0, 0, 700, 598) and class nonbiogasready.
+[2025-03-25 14:45:40,853] 59 root - INFO - Command 'FLAG_5' received response: Rotating plate at full speed....
+[2025-03-25 14:45:42,855] 59 root - INFO - Command 'MOVE_MULTI' received response: Received Command: MOVE_MULTI.
+[2025-03-25 14:45:46,986] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:46:01,176] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-25 14:46:05,295] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:46:19,453] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....

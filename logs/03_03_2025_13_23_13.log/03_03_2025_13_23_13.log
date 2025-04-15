@@ -1,0 +1,7 @@
+[2025-03-03 13:23:13,723] 18 root - INFO - models been read..
+[2025-03-03 13:23:15,726] 24 root - INFO - arduino got connected..
+[2025-03-03 13:23:18,470] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 13:23:19,917] 80 root - INFO - Class detected: {detected_class}.
+[2025-03-03 13:23:20,921] 42 root - INFO - Command 'H' been sent to arduino.
+[2025-03-03 13:23:22,427] 42 root - INFO - Command 'C' been sent to arduino.
+[2025-03-03 13:23:23,932] 42 root - INFO - Command 'O' been sent to arduino.

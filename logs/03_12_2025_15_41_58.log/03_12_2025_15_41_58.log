@@ -1,0 +1,19 @@
+[2025-03-12 15:41:58,471] 18 root - INFO - Models have been loaded..
+[2025-03-12 15:42:00,472] 24 root - INFO - Arduino connected..
+[2025-03-12 15:42:02,564] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 15:42:03,950] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 15:42:03,987] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 15:42:04,128] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 15:42:06,160] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 15:42:06,291] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 15:42:34,580] 66 root - ERROR - Timeout for command O.
+[2025-03-12 15:43:06,886] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-12 15:43:18,295] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:43:30,488] 173 root - INFO - Ignored large bounding box: (5, 1, 342, 501).
+[2025-03-12 15:44:00,807] 66 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-12 15:44:10,309] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:44:22,413] 173 root - INFO - Ignored large bounding box: (6, 6, 342, 502).
+[2025-03-12 15:44:22,638] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 15:44:29,812] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 15:44:41,931] 173 root - INFO - Ignored large bounding box: (7, 4, 344, 495).
+[2025-03-12 15:44:42,095] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..

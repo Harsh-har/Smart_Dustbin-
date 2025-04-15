@@ -1,0 +1,12 @@
+[2025-03-17 16:46:11,294] 18 root - INFO - Models have been loaded..
+[2025-03-17 16:46:13,300] 24 root - INFO - Arduino connected..
+[2025-03-17 16:46:15,436] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 16:46:16,865] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 16:46:16,903] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-17 16:46:17,037] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 16:46:18,070] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-17 16:46:18,204] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 16:46:19,204] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-17 16:46:21,251] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 16:46:27,445] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 16:46:39,643] 173 root - INFO - Ignored large bounding box: (0, 0, 683, 600) and class nonbiogasready.

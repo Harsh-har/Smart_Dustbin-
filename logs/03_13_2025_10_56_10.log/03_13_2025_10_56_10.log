@@ -1,0 +1,17 @@
+[2025-03-13 10:56:10,623] 18 root - INFO - Models have been loaded..
+[2025-03-13 10:56:12,625] 24 root - INFO - Arduino connected..
+[2025-03-13 10:56:14,814] 94 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 10:56:47,675] 66 root - ERROR - Timeout for command O.
+[2025-03-13 10:57:19,950] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-13 10:57:30,110] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:57:42,432] 172 root - INFO - Ignored large bounding box: (7, 0, 687, 600).
+[2025-03-13 10:57:42,432] 172 root - INFO - Ignored large bounding box: (8, 1, 342, 600).
+[2025-03-13 10:57:49,779] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:58:01,874] 172 root - INFO - Ignored large bounding box: (6, 0, 686, 600).
+[2025-03-13 10:58:01,875] 172 root - INFO - Ignored large bounding box: (10, 0, 342, 600).
+[2025-03-13 10:58:09,094] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:58:21,639] 172 root - INFO - Ignored large bounding box: (9, 0, 686, 600).
+[2025-03-13 10:58:21,639] 172 root - INFO - Ignored large bounding box: (8, 0, 345, 600).
+[2025-03-13 10:58:28,966] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:58:41,072] 172 root - INFO - Ignored large bounding box: (11, 0, 686, 600).
+[2025-03-13 10:58:41,073] 172 root - INFO - Ignored large bounding box: (11, 0, 343, 599).

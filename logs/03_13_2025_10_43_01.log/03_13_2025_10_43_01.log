@@ -1,0 +1,21 @@
+[2025-03-13 10:43:01,448] 18 root - INFO - Models have been loaded..
+[2025-03-13 10:43:03,451] 24 root - INFO - Arduino connected..
+[2025-03-13 10:43:05,620] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 10:43:07,178] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 10:43:07,217] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 10:43:07,357] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 10:43:08,382] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 10:43:08,515] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 10:43:09,524] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 10:43:11,576] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 10:43:21,759] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:43:34,154] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 10:43:41,241] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:43:53,360] 173 root - INFO - Ignored large bounding box: (3, 0, 692, 600).
+[2025-03-13 10:43:53,482] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 10:44:00,616] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:44:12,718] 173 root - INFO - Ignored large bounding box: (0, 0, 683, 600).
+[2025-03-13 10:44:12,794] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 10:44:19,848] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:44:31,963] 173 root - INFO - Ignored large bounding box: (2, 3, 698, 567).
+[2025-03-13 10:44:32,191] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..

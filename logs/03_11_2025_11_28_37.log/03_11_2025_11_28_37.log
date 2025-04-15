@@ -1,0 +1,20 @@
+[2025-03-11 11:28:37,263] 18 root - INFO - Models have been loaded..
+[2025-03-11 11:28:39,267] 24 root - INFO - Arduino connected..
+[2025-03-11 11:28:42,493] 81 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:28:45,149] 47 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 11:28:45,187] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 11:28:45,328] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:28:46,353] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 11:28:46,488] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:28:47,495] 47 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 11:28:53,586] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:29:05,993] 47 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 11:29:10,164] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:29:22,613] 63 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 11:29:23,617] 47 root - INFO - Command 'MOVE_SINGLE' received response: Resuming MULTI_SINGLE....
+[2025-03-11 11:29:29,621] 47 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-11 11:29:31,731] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:29:43,977] 154 root - INFO - Ignored large bounding box: (0, 0, 786, 593).
+[2025-03-11 11:29:44,190] 63 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 11:29:45,195] 47 root - INFO - Command 'MOVE_SINGLE' received response: Resuming MULTI_SINGLE....
+[2025-03-11 11:29:51,200] 47 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....

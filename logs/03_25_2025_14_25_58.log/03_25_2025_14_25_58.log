@@ -1,0 +1,7 @@
+[2025-03-25 14:25:58,890] 18 root - INFO - Models have been loaded..
+[2025-03-25 14:26:00,926] 24 root - INFO - Arduino connected..
+[2025-03-25 14:26:03,615] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 14:26:07,547] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-25 14:26:07,583] 59 root - INFO - Command 'H' received response: Received Command: H.
+[2025-03-25 14:26:07,599] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-25 14:26:08,076] 59 root - INFO - Command 'C' received response: Received Command: C.

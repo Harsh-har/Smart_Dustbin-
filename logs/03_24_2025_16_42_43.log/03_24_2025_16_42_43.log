@@ -1,0 +1,19 @@
+[2025-03-24 16:42:43,542] 18 root - INFO - Models have been loaded..
+[2025-03-24 16:42:45,544] 24 root - INFO - Arduino connected..
+[2025-03-24 16:42:47,955] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-24 16:42:49,764] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-24 16:42:49,802] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-24 16:42:49,962] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-24 16:42:51,993] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-24 16:42:52,134] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-24 16:42:53,144] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-24 16:42:55,190] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-24 16:43:01,391] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-24 16:43:15,646] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-24 16:43:19,819] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-24 16:43:31,964] 173 root - INFO - Ignored large bounding box: (0, 0, 727, 597) and class nonbiogasready.
+[2025-03-24 16:43:33,967] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-24 16:43:38,126] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-24 16:43:52,250] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-24 16:43:56,359] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-24 16:44:10,507] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.

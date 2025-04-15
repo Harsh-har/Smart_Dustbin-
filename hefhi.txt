@@ -1,0 +1,268 @@
+#include <Servo.h>
+
+// Hand Pressure Servo
+Servo handPressure;
+#define HAND_PRESSURE_PIN 6
+
+// Cutter Motor
+#define cutterMotorEnable 22
+#define cutterMotorInput1 24
+#define cutterMotorInput2 26
+
+// Opening Plate Motor
+#define openingPlateMotorEnable 32
+#define openingPlateMotorInput1 28
+#define openingPlateMotorInput2 30
+#define ENCODER_A 2
+
+// Servo motors for robotic arm
+Servo servoBase;
+Servo servoElbow;
+
+Servo myServo;
+
+int baseStart = 80;
+int elbowStart = 180;
+int baseTarget = 0;
+int elbowTarget = -135;
+
+// Motor driver for Net Motor
+int netMotor_IN1 = 7;
+int netMotor_IN2 = 8;
+int ena = 11;
+
+// Motor driver for Flag Motor
+const int motorPin1 = 3;
+const int motorPin2 = 4;
+const int enablePin = 5;
+
+// Encoder Variables
+volatile int encoderCount = 0;
+int pulsesPerRotation = 100;
+int targetRotations = 2;
+
+// Motor Speed
+int motorSpeed = 110;
+
+// Encoder ISR Function
+void countPulses() {
+    encoderCount++;
+}
+
+void setup() {
+    Serial.begin(9600);
+    Serial1.begin(9600); // For ESP8266 communication
+
+    // Attach servos
+    handPressure.attach(HAND_PRESSURE_PIN);
+    handPressure.write(130);
+
+    servoBase.attach(10);
+    servoElbow.attach(9);
+    servoBase.write(baseStart);
+    servoElbow.write(elbowStart);
+
+    //gateservo
+    myServo.attach(52); // Attach the servo to pin 9
+    myServo.write(0);  // Initialize servo to 0 degrees
+    delay(1000); 
+
+    // Setup Cutter Motor
+    pinMode(cutterMotorEnable, OUTPUT);
+    pinMode(cutterMotorInput1, OUTPUT);
+    pinMode(cutterMotorInput2, OUTPUT);
+
+    // Setup Opening Plate Motor
+    pinMode(openingPlateMotorEnable, OUTPUT);
+    pinMode(openingPlateMotorInput1, OUTPUT);
+    pinMode(openingPlateMotorInput2, OUTPUT);
+
+    // Setup Net Motor
+    pinMode(netMotor_IN1, OUTPUT);
+    pinMode(netMotor_IN2, OUTPUT);
+    pinMode(ena, OUTPUT);
+    digitalWrite(ena, HIGH);
+
+    // Setup Flag Motor
+    pinMode(motorPin1, OUTPUT);
+    pinMode(motorPin2, OUTPUT);
+    pinMode(enablePin, OUTPUT);
+
+    // Setup Encoder
+    pinMode(ENCODER_A, INPUT_PULLUP);
+    attachInterrupt(digitalPinToInterrupt(ENCODER_A), countPulses, RISING);
+
+    Serial.println("🚀 System Ready. Waiting for commands...");
+}
+
+void loop() {
+    if (Serial.available()) {
+        String command = Serial.readStringUntil('\n');
+        command.trim();
+
+        if (command == "H") {
+            activateHandPressure();
+        } 
+        else if (command == "C") {
+            activateCutter();
+        } 
+        else if (command == "O") {
+            rotateOpeningPlate(true, 150);
+            delay(2000);
+            rotateOpeningPlate(false, 150);
+        } 
+        else if (command == "MOVE") {
+            Serial.println("Starting sequence...");
+            rotateNetFullSpeed();
+
+            for (int i = 0; i < 4; i++) {
+                int flag = receiveFlagFromSerial1();
+                executeFlagAction(flag);
+                rotateNetHalfSpeed();
+            }
+        }
+    }
+}
+
+// Hand Pressure Function
+void activateHandPressure() {
+    Serial.println("Hand Pressure Activated");
+    handPressure.write(13);
+    delay(500);
+}
+
+// Cutter Motor Function
+void activateCutter() {
+    Serial.println("Cutter Motor Activated");
+    digitalWrite(cutterMotorEnable, HIGH);
+    digitalWrite(cutterMotorInput1, HIGH);
+    digitalWrite(cutterMotorInput2, LOW);
+    delay(2000);
+    digitalWrite(cutterMotorEnable, LOW);
+    handPressure.write(130);
+    Serial.println("Cutter Motor Stopped");
+}
+
+// Opening Plate Rotation with Encoder
+void rotateOpeningPlate(bool clockwise, int durationMs) {
+    encoderCount = 0;
+    int targetPulses = (pulsesPerRotation * targetRotations);
+    Serial.println(clockwise ? "Rotating Opening Plate Clockwise" : "Rotating Opening Plate Counterclockwise");
+
+    digitalWrite(openingPlateMotorEnable, HIGH);
+    digitalWrite(openingPlateMotorInput1, clockwise ? HIGH : LOW);
+    digitalWrite(openingPlateMotorInput2, clockwise ? LOW : HIGH);
+
+    unsigned long startTime = millis();
+    while ((millis() - startTime) < durationMs && encoderCount < targetPulses);
+
+    digitalWrite(openingPlateMotorEnable, LOW);
+    handPressure.write(130);
+    Serial.println("Opening Plate Stopped");
+}
+
+// Rotating net motor
+void rotateNetFullSpeed() {
+    Serial.println("Rotating plate at full speed...");
+    digitalWrite(netMotor_IN1, HIGH);
+    digitalWrite(netMotor_IN2, LOW);
+    delay(2000);
+    digitalWrite(netMotor_IN1, LOW);
+    digitalWrite(netMotor_IN2, LOW);
+}
+
+void rotateNetHalfSpeed() {
+    Serial.println("Rotating plate at 50% speed...");
+    analogWrite(ena, 60);
+    digitalWrite(netMotor_IN1, HIGH);
+    digitalWrite(netMotor_IN2, LOW);
+    delay(400);
+    digitalWrite(netMotor_IN1, LOW);
+    digitalWrite(netMotor_IN2, LOW);
+    delay(6000);
+    analogWrite(ena, 255);
+}
+
+// Receiving flag from ESP8266
+int receiveFlagFromSerial1() {
+    while (!Serial1.available()) {}
+    String receivedData = Serial1.readStringUntil('\n');
+    receivedData.trim();
+    String flagStr = "";
+
+    for (char c : receivedData) {
+        if (isDigit(c)) flagStr += c;
+    }
+
+    if (flagStr.length() > 0) {
+        int flag = flagStr.toInt();
+        return flag;
+    }
+    return 0;
+}
+
+// Executing action based on flag
+void executeFlagAction(int flag) {
+    if (flag == 5) {
+        rotateLeft(motorSpeed);
+        delay(1400);
+        stopMotor();
+        myServo.write(145); // Move servo to 45 degrees
+        delay(500);
+        moveServosSync(baseTarget, elbowTarget, 5);
+        delay(500);
+        moveServosSync(baseStart, elbowStart, 5);
+        delay(500);
+
+        myServo.write(10);  // Move servo back to 0 degrees
+    
+        rotateRight(motorSpeed);
+        delay(1600);
+        stopMotor();
+    } else if (flag == 4) {
+        rotateLeft(motorSpeed);
+        delay(600);
+        stopMotor();
+       
+        myServo.write(145);  // Move servo back to 0 degrees
+
+        moveServosSync(baseTarget, elbowTarget, 5);
+        delay(500);
+        moveServosSync(baseStart, elbowStart, 5);
+        delay(500);
+
+        myServo.write(10);  // Move servo back to 0 degrees
+
+        delay(500);
+
+        rotateRight(motorSpeed);
+        delay(700);
+        stopMotor();
+    }
+}
+
+// Servo motion function
+void moveServosSync(int baseAngle, int elbowAngle, int speed) {
+    servoBase.write(baseAngle);
+    servoElbow.write(elbowAngle);
+    delay(1000);
+}
+
+// Motor control functions
+void rotateRight(int speed) {
+    digitalWrite(motorPin1, HIGH);
+    digitalWrite(motorPin2, LOW);
+    analogWrite(enablePin, speed);
+}
+
+void rotateLeft(int speed) {
+    digitalWrite(motorPin1, LOW);
+    digitalWrite(motorPin2, HIGH);
+    analogWrite(enablePin, speed);
+}
+
+void stopMotor() {
+    digitalWrite(motorPin1, LOW);
+    digitalWrite(motorPin2, LOW);
+    analogWrite(enablePin, 0);
+}

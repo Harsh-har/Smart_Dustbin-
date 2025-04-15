@@ -1,0 +1,47 @@
+[2025-03-04 11:19:01,193] 22 root - INFO - Models have been loaded..
+[2025-03-04 11:19:03,196] 27 root - INFO - Arduino connected..
+[2025-03-04 11:19:06,671] 44 root - INFO - Command 'O' sent to Arduino: \U0001f680 System Ready. Waiting for commands....
+[2025-03-04 11:19:06,672] 155 root - INFO - Starting Cycle 1....
+[2025-03-04 11:19:08,677] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:14,018] 44 root - INFO - Command 'FAST_MOVE' sent to Arduino: .
+[2025-03-04 11:19:16,024] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:19:17,070] 44 root - INFO - Command 'MOVE' sent to Arduino: Starting sequence....
+[2025-03-04 11:19:19,603] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:19:20,606] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: Rotating plate at full speed....
+[2025-03-04 11:19:22,611] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:25,856] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:19:27,869] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:19:29,879] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:32,166] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:19:34,176] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:19:35,684] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:19:39,984] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:41,998] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:19:44,003] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:47,240] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:19:49,250] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:19:51,253] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:55,512] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:19:57,518] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:19:58,520] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:20:02,755] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:04,768] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:20:06,775] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:10,310] 44 root - INFO - Command 'MOVE' sent to Arduino: Starting sequence....
+[2025-03-04 11:20:11,311] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: Rotating plate at full speed....
+[2025-03-04 11:20:13,323] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:17,600] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:19,611] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:20:21,621] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:26,044] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:28,055] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:20:30,067] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:34,374] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:36,380] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:20:38,387] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:42,667] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:44,683] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:20:46,691] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:20:51,106] 44 root - INFO - Command 'FAST_MOVE' sent to Arduino: .
+[2025-03-04 11:20:53,124] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:20:55,127] 44 root - INFO - Command 'MOVE' sent to Arduino: .

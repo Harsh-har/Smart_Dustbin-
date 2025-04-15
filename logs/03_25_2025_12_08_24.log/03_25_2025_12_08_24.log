@@ -1,0 +1,17 @@
+[2025-03-25 12:08:24,838] 17 root - INFO - Models have been loaded..
+[2025-03-25 12:08:26,951] 73 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 12:08:32,522] 45 root - INFO - Sent 'H', ESP Response: Command Sent: H.
+[2025-03-25 12:08:32,598] 45 root - INFO - Sent 'C', ESP Response: Command Sent: C.
+[2025-03-25 12:08:34,688] 45 root - INFO - Sent 'MOVE_SINGLE', ESP Response: Command Sent: MOVE_SINGLE.
+[2025-03-25 12:08:40,753] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:08:53,140] 45 root - INFO - Sent 'FLAG_4', ESP Response: Command Sent: FLAG_4.
+[2025-03-25 12:08:53,284] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-25 12:09:00,446] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:09:13,699] 45 root - INFO - Sent 'FLAG_4', ESP Response: Command Sent: FLAG_4.
+[2025-03-25 12:09:13,760] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-25 12:09:17,868] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:09:30,236] 45 root - INFO - Sent 'FLAG_4', ESP Response: Command Sent: FLAG_4.
+[2025-03-25 12:09:30,312] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-25 12:09:34,351] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:09:46,667] 45 root - INFO - Sent 'FLAG_4', ESP Response: Command Sent: FLAG_4.
+[2025-03-25 12:09:46,757] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.

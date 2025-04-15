@@ -1,0 +1,20 @@
+[2025-03-11 11:59:46,190] 18 root - INFO - Models have been loaded..
+[2025-03-11 11:59:48,193] 24 root - INFO - Arduino connected..
+[2025-03-11 11:59:50,490] 82 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:59:52,065] 48 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 11:59:52,104] 48 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 11:59:52,243] 48 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:59:53,270] 48 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 11:59:53,402] 48 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:59:54,411] 48 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 11:59:58,489] 99 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:59:58,539] 48 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 12:00:10,895] 64 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 12:00:11,901] 48 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-11 12:00:17,905] 48 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 12:00:20,085] 99 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 12:00:20,087] 48 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-11 12:00:32,196] 155 root - INFO - Ignored large bounding box: (81, 0, 794, 600).
+[2025-03-11 12:00:32,199] 48 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 12:00:36,363] 99 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 12:00:36,365] 48 root - INFO - Command 'MOVE_SINGLE' received response: Resuming MULTI_SINGLE....

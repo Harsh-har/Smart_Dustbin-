@@ -1,0 +1,25 @@
+[2025-03-24 10:37:23,672] 18 root - INFO - Models have been loaded..
+[2025-03-24 10:37:23,672] 179 root - INFO - \U0001f680 Starting Garbage Processing....
+[2025-03-24 10:37:36,607] 68 root - ERROR - Failed to grab frame.
+[2025-03-24 10:37:38,612] 43 root - ERROR - \u26a0\ufe0f Connection Error: Invalid URL '192.168.1.12/command?cmd=MOVE_SINGLE': No scheme supplied. Perhaps you meant https://192.168.1.12/command?cmd=MOVE_SINGLE?.
+[2025-03-24 10:37:45,401] 72 root - INFO - \U0001f4f7 Image captured from http://192.168.1.104/cam-hi.jpg.
+[2025-03-24 10:38:00,907] 127 root - INFO - Ignored large bounding box: (11, 0, 704, 595) - nonbiogasready.
+[2025-03-24 10:38:00,911] 134 root - INFO - Detected objects: [].
+[2025-03-24 10:38:00,912] 152 root - INFO - No objects detected, moving plate..
+[2025-03-24 10:38:00,913] 43 root - ERROR - \u26a0\ufe0f Connection Error: Invalid URL '192.168.1.12/command?cmd=MOVE_MULTI': No scheme supplied. Perhaps you meant https://192.168.1.12/command?cmd=MOVE_MULTI?.
+[2025-03-24 10:38:04,990] 72 root - INFO - \U0001f4f7 Image captured from http://192.168.1.104/cam-hi.jpg.
+[2025-03-24 10:38:15,327] 127 root - INFO - Ignored large bounding box: (7, 1, 691, 598) - nonbiogasready.
+[2025-03-24 10:38:15,329] 134 root - INFO - Detected objects: [].
+[2025-03-24 10:38:15,329] 152 root - INFO - No objects detected, moving plate..
+[2025-03-24 10:38:15,330] 43 root - ERROR - \u26a0\ufe0f Connection Error: Invalid URL '192.168.1.12/command?cmd=MOVE_MULTI': No scheme supplied. Perhaps you meant https://192.168.1.12/command?cmd=MOVE_MULTI?.
+[2025-03-24 10:38:19,394] 72 root - INFO - \U0001f4f7 Image captured from http://192.168.1.104/cam-hi.jpg.
+[2025-03-24 10:38:29,748] 127 root - INFO - Ignored large bounding box: (9, 1, 699, 572) - nonbiogasready.
+[2025-03-24 10:38:29,748] 134 root - INFO - Detected objects: [].
+[2025-03-24 10:38:29,748] 152 root - INFO - No objects detected, moving plate..
+[2025-03-24 10:38:29,749] 43 root - ERROR - \u26a0\ufe0f Connection Error: Invalid URL '192.168.1.12/command?cmd=MOVE_MULTI': No scheme supplied. Perhaps you meant https://192.168.1.12/command?cmd=MOVE_MULTI?.
+[2025-03-24 10:38:34,096] 72 root - INFO - \U0001f4f7 Image captured from http://192.168.1.104/cam-hi.jpg.
+[2025-03-24 10:38:44,251] 127 root - INFO - Ignored large bounding box: (7, 2, 771, 549) - nonbiogasready.
+[2025-03-24 10:38:44,251] 134 root - INFO - Detected objects: [].
+[2025-03-24 10:38:44,253] 152 root - INFO - No objects detected, moving plate..
+[2025-03-24 10:38:44,253] 43 root - ERROR - \u26a0\ufe0f Connection Error: Invalid URL '192.168.1.12/command?cmd=MOVE_MULTI': No scheme supplied. Perhaps you meant https://192.168.1.12/command?cmd=MOVE_MULTI?.
+[2025-03-24 10:38:44,253] 172 root - INFO - \u2705 Process Completed Successfully!.

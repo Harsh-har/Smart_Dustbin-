@@ -1,0 +1,26 @@
+[2025-03-03 15:24:35,957] 18 root - INFO - models been read..
+[2025-03-03 15:24:37,959] 24 root - INFO - arduino got connected..
+[2025-03-03 15:24:40,407] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 15:24:44,393] 42 root - INFO - Command 'O' been sent to arduino.
+[2025-03-03 15:24:47,398] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 15:24:50,557] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 15:24:51,916] 42 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-03-03 15:24:54,924] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 15:24:56,930] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 15:25:01,036] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 15:25:01,440] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 15:25:01,442] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 15:25:02,446] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-03-03 15:25:05,453] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 15:25:07,981] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 15:25:12,101] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 15:25:12,430] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 15:25:12,430] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 15:25:14,441] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-03-03 15:25:18,461] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 15:25:20,958] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 15:25:25,105] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 15:25:27,729] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 15:25:27,730] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 15:25:29,736] 42 root - INFO - Command 'HAND_MOTOR:[5, 5]' been sent to arduino.
+[2025-03-03 15:25:33,750] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.

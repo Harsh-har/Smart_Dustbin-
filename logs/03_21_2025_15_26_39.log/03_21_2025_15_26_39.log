@@ -1,0 +1,19 @@
+[2025-03-21 15:26:39,280] 18 root - INFO - Models have been loaded..
+[2025-03-21 15:26:41,284] 24 root - INFO - Arduino connected..
+[2025-03-21 15:26:43,497] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-21 15:26:45,139] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-21 15:26:45,178] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-21 15:26:45,338] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-21 15:26:47,369] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-21 15:26:47,511] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-21 15:26:48,520] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-21 15:26:50,571] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-21 15:26:57,047] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:27:11,272] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-21 15:27:15,395] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:27:27,504] 59 root - INFO - Command 'FLAG_5' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-21 15:27:29,508] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-21 15:27:33,712] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-21 15:27:45,855] 173 root - INFO - Ignored large bounding box: (4, 1, 764, 600) and class nonbiogasready.
+[2025-03-21 15:27:47,862] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-21 15:27:52,065] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

@@ -1,0 +1,25 @@
+[2025-03-04 17:10:43,585] 18 root - INFO - Models have been loaded..
+[2025-03-04 17:10:45,588] 24 root - INFO - Arduino connected..
+[2025-03-04 17:10:47,759] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:10:50,269] 45 root - INFO - Command 'H' sent to Arduino.
+[2025-03-04 17:10:51,771] 45 root - INFO - Command 'C' sent to Arduino.
+[2025-03-04 17:10:53,276] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-04 17:10:56,279] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:10:59,443] 71 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:11:00,665] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:01,672] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:04,833] 71 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:11:05,933] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:06,936] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:10,052] 71 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:11:11,152] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:12,157] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:15,265] 71 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:11:17,365] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:19,377] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:22,464] 71 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:11:24,568] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:26,577] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:29,735] 71 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 17:11:31,836] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 17:11:33,843] 45 root - INFO - Command 'MOVE' sent to Arduino.

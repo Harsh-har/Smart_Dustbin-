@@ -1,0 +1,16 @@
+[2025-03-25 12:35:38,937] 17 root - INFO - Models have been loaded..
+[2025-03-25 12:35:41,053] 76 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 12:35:45,998] 48 root - INFO - Sent 'H', ESP Response: Command Sent: H.
+[2025-03-25 12:35:46,074] 48 root - INFO - Sent 'C', ESP Response: Command Sent: C.
+[2025-03-25 12:35:46,201] 48 root - INFO - Sent 'O', ESP Response: Command Sent: O.
+[2025-03-25 12:35:48,319] 48 root - INFO - Sent 'MOVE_SINGLE', ESP Response: Command Sent: MOVE_SINGLE.
+[2025-03-25 12:35:54,462] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:36:07,189] 48 root - INFO - Sent 'FLAG_4', ESP Response: Command Sent: FLAG_4.
+[2025-03-25 12:36:07,285] 48 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-25 12:36:11,839] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:36:24,523] 48 root - INFO - Sent 'FLAG_4', ESP Response: Command Sent: FLAG_4.
+[2025-03-25 12:36:24,602] 48 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-25 12:36:28,690] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-25 12:36:50,903] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='192.168.1.28', port=80): Max retries exceeded with url: /command?cmd=FLAG_4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001585CC9A030>, 'Connection to 192.168.1.28 timed out. (connect timeout=10)')).
+[2025-03-25 12:36:58,114] 48 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-25 12:37:02,350] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..

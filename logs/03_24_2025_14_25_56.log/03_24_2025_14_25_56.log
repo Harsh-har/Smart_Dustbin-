@@ -1,0 +1,12 @@
+[2025-03-24 14:25:56,160] 17 root - INFO - Models have been loaded..
+[2025-03-24 14:25:58,310] 73 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-24 14:26:03,030] 45 root - INFO - Sent 'O', ESP Response: {"status":"error","message":"No response from Arduino"}.
+[2025-03-24 14:26:07,135] 45 root - INFO - Sent 'MOVE_SINGLE', ESP Response: {"status":"error","message":"No response from Arduino"}.
+[2025-03-24 14:26:13,267] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:26:27,724] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: {"status":"error","message":"No response from Arduino"}.
+[2025-03-24 14:26:31,812] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:26:46,364] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: {"status":"error","message":"No response from Arduino"}.
+[2025-03-24 14:26:50,441] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:27:04,911] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: {"status":"error","message":"No response from Arduino"}.
+[2025-03-24 14:27:09,067] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:27:23,526] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: {"status":"error","message":"No response from Arduino"}.

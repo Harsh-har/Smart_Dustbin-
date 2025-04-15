@@ -1,0 +1,23 @@
+[2025-03-10 19:07:32,855] 18 root - INFO - Models have been loaded..
+[2025-03-10 19:07:34,857] 24 root - INFO - Arduino connected..
+[2025-03-10 19:07:37,812] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 19:07:40,354] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 19:07:44,477] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 19:07:45,705] 45 root - INFO - Command 'MOVE_SINGLE' sent to Arduino.
+[2025-03-10 19:07:51,709] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 19:07:52,714] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 19:07:55,719] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 19:07:57,911] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 19:07:59,012] 45 root - INFO - Command 'MOVE_SINGLE' sent to Arduino.
+[2025-03-10 19:08:05,019] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 19:08:06,022] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 19:08:10,039] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 19:08:12,253] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 19:08:12,560] 53 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-10 19:08:13,563] 45 root - INFO - Command 'MOVE_SINGLE' sent to Arduino.
+[2025-03-10 19:08:16,568] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 19:08:18,709] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 19:08:18,882] 53 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-10 19:08:20,052] 45 root - INFO - Command 'MOVE_SINGLE' sent to Arduino.
+[2025-03-10 19:08:23,057] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 19:08:25,149] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

@@ -1,0 +1,21 @@
+[2025-03-25 13:23:54,838] 18 root - INFO - Models have been loaded..
+[2025-03-25 13:23:56,841] 24 root - INFO - Arduino connected..
+[2025-03-25 13:23:58,941] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 13:24:03,533] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-25 13:24:03,569] 59 root - INFO - Command 'H' received response: Received Command: H.
+[2025-03-25 13:24:03,584] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-25 13:24:04,062] 59 root - INFO - Command 'C' received response: Received Command: C.
+[2025-03-25 13:24:08,081] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-25 13:24:09,101] 59 root - INFO - Command 'O' received response: Received Command: O.
+[2025-03-25 13:24:09,128] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-25 13:24:09,245] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 13:24:10,270] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-25 13:24:10,403] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 13:24:11,413] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-25 13:24:13,460] 59 root - INFO - Command 'MOVE_SINGLE' received response: Received Command: MOVE_SINGLE.
+[2025-03-25 13:24:20,099] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 13:24:32,434] 59 root - INFO - Command 'FLAG_4' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-25 13:24:34,437] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-25 13:24:38,708] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 13:24:53,038] 59 root - INFO - Command 'MOVE_MULTI' received response: Received Command: FLAG_4.
+[2025-03-25 13:24:57,114] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

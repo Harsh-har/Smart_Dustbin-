@@ -1,0 +1,5 @@
+[2025-02-27 14:29:10,502] 18 root - INFO - models been read..
+[2025-02-27 14:29:12,505] 24 root - INFO - arduino got connected..
+[2025-02-27 14:29:15,965] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-27 14:29:17,468] 80 root - INFO - Class detected: {detected_class}.
+[2025-02-27 14:29:17,468] 97 root - INFO - first camera did its work.

@@ -1,0 +1,23 @@
+[2025-03-11 13:19:53,533] 18 root - INFO - Models have been loaded..
+[2025-03-11 13:19:55,537] 24 root - INFO - Arduino connected..
+[2025-03-11 13:19:58,193] 91 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:20:01,616] 57 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 13:20:01,646] 57 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 13:20:06,165] 57 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 13:20:07,188] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 13:20:07,328] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 13:20:08,353] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 13:20:08,486] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 13:20:09,495] 57 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 13:20:11,545] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 13:20:17,854] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:20:30,213] 73 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 13:20:31,218] 57 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-11 13:20:37,220] 57 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 13:20:48,536] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:21:00,733] 73 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 13:21:01,737] 57 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-11 13:21:07,741] 57 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 13:21:17,370] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:21:29,457] 164 root - INFO - Ignored large bounding box: (0, 1, 664, 596).
+[2025-03-11 13:21:29,462] 57 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....

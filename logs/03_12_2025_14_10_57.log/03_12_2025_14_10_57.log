@@ -1,0 +1,16 @@
+[2025-03-12 14:10:58,194] 18 root - INFO - Models have been loaded..
+[2025-03-12 14:11:00,199] 24 root - INFO - Arduino connected..
+[2025-03-12 14:11:02,740] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 14:11:05,605] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for flag data....
+[2025-03-12 14:11:35,841] 66 root - ERROR - Timeout for command O.
+[2025-03-12 14:12:08,106] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-12 14:12:22,629] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:13:05,093] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-12 14:13:18,959] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:13:31,263] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 14:14:01,558] 66 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-12 14:14:12,201] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:14:24,370] 173 root - INFO - Ignored large bounding box: (8, 1, 343, 496).
+[2025-03-12 14:14:54,615] 66 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-12 14:15:05,356] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:15:17,646] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..

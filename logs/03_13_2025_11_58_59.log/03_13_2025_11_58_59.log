@@ -1,0 +1,21 @@
+[2025-03-13 11:59:00,076] 18 root - INFO - Models have been loaded..
+[2025-03-13 11:59:02,078] 24 root - INFO - Arduino connected..
+[2025-03-13 11:59:04,261] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 11:59:05,676] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 11:59:05,714] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 11:59:05,854] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 11:59:06,879] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 11:59:07,012] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 11:59:08,021] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 11:59:10,069] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 11:59:20,248] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:59:32,435] 173 root - INFO - Ignored large bounding box: (4, 0, 686, 600).
+[2025-03-13 11:59:32,559] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 11:59:39,691] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:59:51,814] 173 root - INFO - Ignored large bounding box: (298, 1, 685, 598).
+[2025-03-13 11:59:51,973] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 11:59:59,143] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 12:00:11,260] 173 root - INFO - Ignored large bounding box: (4, 0, 685, 600).
+[2025-03-13 12:00:11,260] 173 root - INFO - Ignored large bounding box: (281, 20, 684, 600).
+[2025-03-13 12:00:11,368] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 12:00:18,612] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

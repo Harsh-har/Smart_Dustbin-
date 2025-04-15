@@ -1,0 +1,22 @@
+[2025-03-17 15:57:07,844] 18 root - INFO - Models have been loaded..
+[2025-03-17 15:57:09,852] 24 root - INFO - Arduino connected..
+[2025-03-17 15:57:12,179] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 15:57:14,380] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 15:57:14,418] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-17 15:57:14,544] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 15:57:15,573] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-17 15:57:15,712] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 15:57:16,726] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-17 15:57:18,775] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 15:57:28,875] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:57:41,074] 173 root - INFO - Ignored large bounding box: (7, 1, 336, 593) and class nonbiogasready.
+[2025-03-17 15:57:43,082] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-17 15:57:50,284] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:58:02,387] 173 root - INFO - Ignored large bounding box: (8, 1, 338, 506) and class nonbiogasready.
+[2025-03-17 15:58:02,387] 173 root - INFO - Ignored large bounding box: (0, 0, 681, 594) and class nonbiogasready.
+[2025-03-17 15:58:04,391] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-17 15:58:11,569] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:58:23,674] 173 root - INFO - Ignored large bounding box: (3, 0, 669, 600) and class nonbiogasready.
+[2025-03-17 15:58:23,674] 173 root - INFO - Ignored large bounding box: (9, 0, 342, 518) and class nonbiogasready.
+[2025-03-17 15:58:30,813] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:58:42,931] 173 root - INFO - Ignored large bounding box: (3, 0, 673, 600) and class nonbiogasready.

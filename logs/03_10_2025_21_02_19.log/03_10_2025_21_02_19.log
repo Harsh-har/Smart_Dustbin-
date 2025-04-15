@@ -1,0 +1,23 @@
+[2025-03-10 21:02:19,674] 18 root - INFO - Models have been loaded..
+[2025-03-10 21:02:21,677] 24 root - INFO - Arduino connected..
+[2025-03-10 21:02:23,800] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 21:02:26,389] 45 root - INFO - Command 'H' sent to Arduino.
+[2025-03-10 21:02:27,894] 45 root - INFO - Command 'C' sent to Arduino.
+[2025-03-10 21:02:29,398] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 21:02:33,518] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 21:02:33,749] 139 root - INFO - Ignored large bounding box: (2, 0, 789, 600).
+[2025-03-10 21:02:34,752] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:35,756] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:39,904] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 21:02:41,007] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:42,009] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:46,143] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 21:02:46,240] 139 root - INFO - Ignored large bounding box: (0, 0, 780, 600).
+[2025-03-10 21:02:47,244] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:49,262] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:53,321] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 21:02:54,460] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:02:56,475] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.
+[2025-03-10 21:03:00,669] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 21:03:00,767] 139 root - INFO - Ignored large bounding box: (1, 32, 757, 599).
+[2025-03-10 21:03:02,773] 45 root - INFO - Command 'MOVE_MULTI' sent to Arduino.

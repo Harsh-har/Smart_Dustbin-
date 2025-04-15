@@ -1,0 +1,14 @@
+[2025-03-18 11:40:49,767] 18 root - INFO - Models have been loaded..
+[2025-03-18 11:40:51,780] 24 root - INFO - Arduino connected..
+[2025-03-18 11:40:53,958] 93 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-18 11:41:26,660] 64 root - ERROR - Timeout for command O.
+[2025-03-18 11:41:58,971] 64 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-18 11:42:06,224] 111 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-18 11:42:50,943] 64 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-18 11:42:55,219] 111 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-18 11:43:39,749] 64 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-18 11:43:43,967] 111 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-18 11:44:26,496] 64 root - ERROR - Timeout for command FLAG_4.
+[2025-03-18 11:44:58,720] 64 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-18 11:45:02,923] 111 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-18 11:45:47,442] 64 root - ERROR - Timeout for command MOVE_MULTI.

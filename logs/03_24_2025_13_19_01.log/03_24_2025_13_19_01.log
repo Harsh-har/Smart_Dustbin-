@@ -1,0 +1,11 @@
+[2025-03-24 13:19:01,896] 17 root - INFO - Models have been loaded..
+[2025-03-24 13:19:05,000] 73 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-24 13:19:11,527] 45 root - INFO - Sent 'H', ESP Response: Command Sent: H.
+[2025-03-24 13:19:11,606] 45 root - INFO - Sent 'C', ESP Response: Command Sent: C.
+[2025-03-24 13:19:13,718] 45 root - INFO - Sent 'MOVE_SINGLE', ESP Response: Command Sent: MOVE_SINGLE.
+[2025-03-24 13:19:19,836] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:08:06,116] 56 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='192.168.1.12', port=80): Max retries exceeded with url: /command?cmd=MOVE_MULTI (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001928A02C650>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host')).
+[2025-03-24 14:08:47,557] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:08:59,913] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.
+[2025-03-24 14:09:04,048] 73 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-24 14:09:16,300] 45 root - INFO - Sent 'MOVE_MULTI', ESP Response: Command Sent: MOVE_MULTI.

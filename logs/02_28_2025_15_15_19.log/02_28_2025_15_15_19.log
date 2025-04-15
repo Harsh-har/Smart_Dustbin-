@@ -1,0 +1,40 @@
+[2025-02-28 15:15:20,059] 20 root - INFO - models been read..
+[2025-02-28 15:15:22,062] 26 root - INFO - arduino got connected..
+[2025-02-28 15:15:24,236] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:15:26,618] 44 root - INFO - Command 'O' been sent to arduino.
+[2025-02-28 15:15:29,624] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 15:15:32,804] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:15:34,363] 44 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-02-28 15:15:37,369] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-28 15:15:39,375] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 15:15:42,463] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:15:42,683] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:15:42,684] 149 root - INFO - 4 been sent.
+[2025-02-28 15:15:42,859] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:15:42,859] 149 root - INFO - 4 been sent.
+[2025-02-28 15:15:43,019] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:15:43,020] 149 root - INFO - 4 been sent.
+[2025-02-28 15:15:43,331] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:15:43,332] 149 root - INFO - 4 been sent.
+[2025-02-28 15:15:43,588] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:15:43,588] 149 root - INFO - 4 been sent.
+[2025-02-28 15:15:44,591] 44 root - INFO - Command 'HAND_MOTOR:[4]' been sent to arduino.
+[2025-02-28 15:15:47,597] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-28 15:15:49,603] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 15:15:52,798] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:15:55,240] 44 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-02-28 15:15:58,776] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-28 15:16:01,794] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 15:16:04,870] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:16:05,086] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:16:05,086] 149 root - INFO - 5 been sent.
+[2025-02-28 15:16:05,317] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:16:05,317] 149 root - INFO - 5 been sent.
+[2025-02-28 15:16:05,577] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:16:05,577] 149 root - INFO - 5 been sent.
+[2025-02-28 15:16:05,749] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:16:05,749] 149 root - INFO - 5 been sent.
+[2025-02-28 15:16:05,913] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 15:16:05,913] 149 root - INFO - 5 been sent.
+[2025-02-28 15:16:07,926] 44 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-02-28 15:16:10,930] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.

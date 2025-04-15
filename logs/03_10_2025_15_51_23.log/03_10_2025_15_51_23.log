@@ -1,0 +1,29 @@
+[2025-03-10 15:51:23,416] 17 root - INFO - Models loaded.
+[2025-03-10 15:51:25,420] 147 root - INFO - System startup.
+[2025-03-10 15:51:28,497] 103 root - INFO - No polythene - Direct pass.
+[2025-03-10 15:51:29,001] 42 root - INFO - Arduino: O => \U0001f680 System Ready. Waiting for commands....
+[2025-03-10 15:51:32,528] 132 root - INFO - Cycle 1: Detected 0 objects.
+[2025-03-10 15:51:33,030] 42 root - INFO - Arduino: STOP => Rotating Opening Plate Clockwise.
+[2025-03-10 15:51:33,532] 42 root - INFO - Arduino: MOVE_2 => Opening Plate Stopped.
+[2025-03-10 15:51:33,883] 132 root - INFO - Cycle 2: Detected 0 objects.
+[2025-03-10 15:51:34,386] 42 root - INFO - Arduino: STOP => Rotating Opening Plate Counterclockwise.
+[2025-03-10 15:51:34,890] 42 root - INFO - Arduino: MOVE_2 => Opening Plate Stopped.
+[2025-03-10 15:51:35,807] 132 root - INFO - Cycle 3: Detected 0 objects.
+[2025-03-10 15:51:36,311] 42 root - INFO - Arduino: STOP => Activating Net Motor at Full Speed (MOVE_2).
+[2025-03-10 15:51:36,815] 42 root - INFO - Arduino: MOVE_2 => Rotating plate at full speed....
+[2025-03-10 15:51:37,192] 132 root - INFO - Cycle 4: Detected 0 objects.
+[2025-03-10 15:51:37,696] 42 root - INFO - Arduino: STOP => Activating Net Motor at Full Speed (MOVE_2).
+[2025-03-10 15:51:38,200] 42 root - INFO - Arduino: MOVE_2 => Rotating plate at full speed....
+[2025-03-10 15:51:38,614] 132 root - INFO - Cycle 5: Detected 0 objects.
+[2025-03-10 15:51:39,119] 42 root - INFO - Arduino: STOP => Activating Net Motor at Full Speed (MOVE_2).
+[2025-03-10 15:51:39,623] 42 root - INFO - Arduino: MOVE_2 => Rotating plate at full speed....
+[2025-03-10 15:51:40,380] 132 root - INFO - Cycle 6: Detected 0 objects.
+[2025-03-10 15:51:40,883] 42 root - INFO - Arduino: STOP => Activating Net Motor at Full Speed (MOVE_2).
+[2025-03-10 15:51:41,387] 42 root - INFO - Arduino: MOVE_2 => Rotating plate at full speed....
+[2025-03-10 15:51:41,851] 132 root - INFO - Cycle 7: Detected 0 objects.
+[2025-03-10 15:51:42,356] 42 root - INFO - Arduino: STOP => Activating Net Motor at Full Speed (MOVE_2).
+[2025-03-10 15:51:42,860] 42 root - INFO - Arduino: MOVE_2 => Rotating plate at full speed....
+[2025-03-10 15:51:43,220] 132 root - INFO - Cycle 8: Detected 0 objects.
+[2025-03-10 15:51:43,723] 42 root - INFO - Arduino: STOP => Activating Net Motor at Full Speed (MOVE_2).
+[2025-03-10 15:51:44,226] 42 root - INFO - Arduino: MOVE_2 => Rotating plate at full speed....
+[2025-03-10 15:51:44,227] 156 root - INFO - System shutdown.

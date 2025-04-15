@@ -1,0 +1,21 @@
+[2025-03-17 13:54:45,614] 18 root - INFO - Models have been loaded..
+[2025-03-17 13:54:47,630] 24 root - INFO - Arduino connected..
+[2025-03-17 13:54:49,758] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 13:54:52,455] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 13:55:22,676] 66 root - ERROR - Timeout for command O.
+[2025-03-17 13:55:54,900] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-17 13:56:05,036] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:56:17,517] 173 root - INFO - Ignored large bounding box: (6, 0, 335, 542) and class nonbiogasready.
+[2025-03-17 13:56:17,527] 173 root - INFO - Ignored large bounding box: (1, 0, 666, 600) and class nonbiogasready.
+[2025-03-17 13:56:47,774] 66 root - ERROR - Timeout for command FLAG_5.
+[2025-03-17 13:56:56,970] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:57:09,223] 173 root - INFO - Ignored large bounding box: (1, 1, 340, 599) and class nonbiogasready.
+[2025-03-17 13:57:09,223] 173 root - INFO - Ignored large bounding box: (0, 0, 671, 600) and class nonbiogasready.
+[2025-03-17 13:57:09,228] 173 root - INFO - Ignored large bounding box: (302, 0, 675, 583) and class nonbiogasready.
+[2025-03-17 13:57:41,452] 66 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-17 13:57:48,624] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:58:00,903] 173 root - INFO - Ignored large bounding box: (1, 0, 341, 591) and class nonbiogasready.
+[2025-03-17 13:58:00,903] 173 root - INFO - Ignored large bounding box: (302, 0, 675, 597) and class nonbiogasready.
+[2025-03-17 13:58:00,903] 173 root - INFO - Ignored large bounding box: (0, 0, 672, 600) and class nonbiogasready.
+[2025-03-17 13:58:33,112] 66 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-17 13:58:40,255] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

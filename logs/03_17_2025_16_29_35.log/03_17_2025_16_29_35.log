@@ -1,0 +1,6 @@
+[2025-03-17 16:29:35,996] 18 root - INFO - Models have been loaded..
+[2025-03-17 16:29:38,009] 24 root - INFO - Arduino connected..
+[2025-03-17 16:29:48,332] 59 root - INFO - Command 'MOVE_SINGLE' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 16:29:54,513] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 16:30:09,993] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 16:30:14,713] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

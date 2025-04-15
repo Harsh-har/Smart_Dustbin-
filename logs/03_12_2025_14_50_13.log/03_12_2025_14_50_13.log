@@ -1,0 +1,21 @@
+[2025-03-12 14:50:13,283] 18 root - INFO - Models have been loaded..
+[2025-03-12 14:50:15,286] 24 root - INFO - Arduino connected..
+[2025-03-12 14:50:17,747] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 14:50:19,173] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 14:50:19,223] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 14:50:19,350] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 14:50:20,378] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 14:50:20,510] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 14:50:21,519] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-12 14:50:23,568] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-12 14:50:34,086] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:50:46,493] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-12 14:50:55,157] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:51:07,262] 173 root - INFO - Ignored large bounding box: (10, 4, 342, 513).
+[2025-03-12 14:51:07,263] 173 root - INFO - Ignored large bounding box: (0, 5, 688, 538).
+[2025-03-12 14:51:07,270] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-12 14:51:16,620] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:51:28,835] 76 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-12 14:51:37,246] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-12 14:51:49,349] 173 root - INFO - Ignored large bounding box: (9, 5, 344, 506).
+[2025-03-12 14:51:49,354] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.

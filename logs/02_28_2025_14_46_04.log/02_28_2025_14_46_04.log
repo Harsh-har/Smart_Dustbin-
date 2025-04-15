@@ -1,0 +1,26 @@
+[2025-02-28 14:46:04,270] 20 root - INFO - models been read..
+[2025-02-28 14:46:06,272] 26 root - INFO - arduino got connected..
+[2025-02-28 14:46:08,918] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 14:46:11,309] 44 root - INFO - Command 'O' been sent to arduino.
+[2025-02-28 14:46:14,315] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 14:46:17,452] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 14:46:18,640] 44 root - INFO - Command 'HAND_MOTOR:[]' been sent to arduino.
+[2025-02-28 14:46:21,647] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-28 14:46:23,653] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 14:46:26,747] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 14:46:26,988] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 14:46:26,989] 147 root - INFO - 4 been sent.
+[2025-02-28 14:46:27,992] 44 root - INFO - Command 'HAND_MOTOR:[4, 4, 4]' been sent to arduino.
+[2025-02-28 14:46:30,998] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-28 14:46:33,004] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 14:46:36,079] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 14:46:36,308] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 14:46:36,308] 147 root - INFO - 4 been sent.
+[2025-02-28 14:46:38,312] 44 root - INFO - Command 'HAND_MOTOR:[4, 4]' been sent to arduino.
+[2025-02-28 14:46:42,322] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-02-28 14:46:44,328] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 14:46:50,900] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 14:46:51,149] 52 root - INFO - response '{response.text}' been sent..
+[2025-02-28 14:46:51,150] 147 root - INFO - 4 been sent.
+[2025-02-28 14:46:53,154] 44 root - INFO - Command 'HAND_MOTOR:[4]' been sent to arduino.
+[2025-02-28 14:46:56,161] 44 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.

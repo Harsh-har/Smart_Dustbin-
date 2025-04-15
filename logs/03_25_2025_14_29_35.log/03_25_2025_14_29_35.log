@@ -1,0 +1,20 @@
+[2025-03-25 14:29:35,128] 18 root - INFO - Models have been loaded..
+[2025-03-25 14:29:37,130] 24 root - INFO - Arduino connected..
+[2025-03-25 14:29:39,739] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 14:29:43,527] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-25 14:29:43,562] 59 root - INFO - Command 'H' received response: Received Command: H.
+[2025-03-25 14:29:43,578] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-25 14:29:44,056] 59 root - INFO - Command 'C' received response: Received Command: C.
+[2025-03-25 14:29:48,076] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-25 14:29:49,096] 59 root - INFO - Command 'O' received response: Received Command: O.
+[2025-03-25 14:29:49,121] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-25 14:29:49,240] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 14:29:50,264] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-25 14:29:50,397] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 14:29:51,407] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-25 14:29:53,455] 59 root - INFO - Command 'MOVE_SINGLE' received response: Received Command: MOVE_SINGLE.
+[2025-03-25 14:29:59,600] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:30:13,878] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-25 14:30:18,005] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:30:32,141] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-25 14:30:36,221] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

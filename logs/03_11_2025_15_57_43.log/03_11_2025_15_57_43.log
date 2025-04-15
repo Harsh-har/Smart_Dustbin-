@@ -1,0 +1,19 @@
+[2025-03-11 15:57:43,672] 18 root - INFO - Models have been loaded..
+[2025-03-11 15:57:45,674] 24 root - INFO - Arduino connected..
+[2025-03-11 15:57:47,884] 91 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:57:49,332] 57 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 15:57:49,371] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 15:57:49,509] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 15:57:50,535] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 15:57:50,669] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 15:57:51,677] 57 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 15:57:53,728] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 15:57:59,268] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:58:11,466] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 15:58:15,849] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:58:27,953] 57 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 15:58:32,195] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:58:44,305] 57 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....
+[2025-03-11 15:58:48,561] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:59:00,669] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-11 15:59:05,877] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

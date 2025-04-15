@@ -1,0 +1,22 @@
+[2025-03-13 10:50:55,593] 18 root - INFO - Models have been loaded..
+[2025-03-13 10:50:57,595] 24 root - INFO - Arduino connected..
+[2025-03-13 10:50:59,878] 94 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 10:51:01,287] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 10:51:01,326] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 10:51:01,466] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 10:51:02,491] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 10:51:02,623] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 10:51:03,633] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 10:51:05,681] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 10:51:15,814] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:51:27,997] 172 root - INFO - Ignored large bounding box: (10, 0, 343, 516).
+[2025-03-13 10:51:27,999] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-13 10:51:37,130] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:51:49,228] 172 root - INFO - Ignored large bounding box: (5, 0, 344, 507).
+[2025-03-13 10:51:56,707] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:52:08,830] 172 root - INFO - Ignored large bounding box: (1, 1, 341, 509).
+[2025-03-13 10:52:08,831] 172 root - INFO - Ignored large bounding box: (0, 0, 686, 600).
+[2025-03-13 10:52:08,832] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-13 10:52:17,971] 112 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 10:52:30,081] 172 root - INFO - Ignored large bounding box: (1, 0, 698, 600).
+[2025-03-13 10:52:30,082] 59 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....

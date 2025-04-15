@@ -1,0 +1,18 @@
+[2025-03-20 16:56:25,411] 18 root - INFO - Models have been loaded..
+[2025-03-20 16:56:27,416] 24 root - INFO - Arduino connected..
+[2025-03-20 16:56:29,891] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-20 16:56:31,447] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-20 16:56:31,485] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-20 16:56:31,625] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-20 16:56:32,652] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-20 16:56:32,784] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-20 16:56:33,796] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-20 16:56:35,846] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-20 16:56:42,424] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-20 16:56:56,629] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-20 16:57:01,016] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-20 16:57:15,130] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-20 16:57:19,306] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-20 16:57:33,420] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-20 16:57:38,087] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-20 16:57:52,203] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.

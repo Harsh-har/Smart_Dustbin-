@@ -1,0 +1,24 @@
+[2025-03-10 15:18:45,141] 18 root - INFO - Models have been loaded..
+[2025-03-10 15:18:47,145] 24 root - INFO - Arduino connected..
+[2025-03-10 15:18:49,495] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:18:51,933] 45 root - INFO - Command 'H' sent to Arduino.
+[2025-03-10 15:18:53,439] 45 root - INFO - Command 'C' sent to Arduino.
+[2025-03-10 15:18:54,944] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 15:18:59,242] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:18:59,656] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:19:00,660] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:19:02,752] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:19:02,956] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:19:03,959] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:19:06,118] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:19:06,368] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:19:07,371] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:19:09,540] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:19:09,711] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:19:10,715] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:19:12,867] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:19:13,969] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 15:19:14,974] 45 root - INFO - Command 'MOVE_2' sent to Arduino.
+[2025-03-10 15:19:17,086] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:19:18,170] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 15:19:19,174] 45 root - INFO - Command 'MOVE_2' sent to Arduino.

@@ -1,0 +1,6 @@
+[2025-02-26 16:24:49,577] 18 root - INFO - models been read..
+[2025-02-26 16:24:51,582] 24 root - INFO - arduino got connected..
+[2025-02-26 16:25:18,853] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 16:25:22,047] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-26 16:25:30,092] 136 root - INFO - {selected_flag} been sent.
+[2025-02-26 16:25:31,096] 42 root - INFO - Command '{cmd}' been sent to arduino.

@@ -1,0 +1,28 @@
+[2025-03-03 12:38:19,417] 18 root - INFO - models been read..
+[2025-03-03 12:38:21,419] 24 root - INFO - arduino got connected..
+[2025-03-03 12:38:24,648] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:38:27,117] 42 root - INFO - Command 'O' been sent to arduino.
+[2025-03-03 12:38:30,123] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:38:33,388] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:38:34,370] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 12:38:34,372] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 12:38:35,377] 42 root - INFO - Command 'HAND_MOTOR:[4]' been sent to arduino.
+[2025-03-03 12:38:38,385] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 12:38:40,388] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:38:43,503] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:38:43,685] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 12:38:43,686] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 12:38:44,687] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-03-03 12:38:47,694] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 12:38:49,698] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:38:52,793] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:38:52,956] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 12:38:52,957] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 12:38:53,960] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-03-03 12:38:57,973] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 12:39:00,990] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 12:39:04,083] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 12:39:04,303] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 12:39:04,304] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 12:39:05,309] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-03-03 12:39:09,326] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.

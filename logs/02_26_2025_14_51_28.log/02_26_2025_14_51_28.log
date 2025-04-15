@@ -1,0 +1,19 @@
+[2025-02-26 14:51:28,653] 18 root - INFO - models been read..
+[2025-02-26 14:51:30,656] 24 root - INFO - arduino got connected..
+[2025-02-26 14:51:32,807] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-26 14:51:34,975] 97 root - INFO - first camera did its work.
+[2025-02-26 14:51:35,979] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:51:38,986] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:51:42,083] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-26 14:51:42,476] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-26 14:51:42,477] 136 root - INFO - {selected_flag} been sent.
+[2025-02-26 14:51:43,481] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:51:46,496] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:51:48,502] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:52:14,429] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:52:17,671] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-26 14:52:17,951] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-26 14:52:17,952] 136 root - INFO - {selected_flag} been sent.
+[2025-02-26 14:52:18,956] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:52:21,963] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-26 14:52:23,970] 42 root - INFO - Command '{cmd}' been sent to arduino.

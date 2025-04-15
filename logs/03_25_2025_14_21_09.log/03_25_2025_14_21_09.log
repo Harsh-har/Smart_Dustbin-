@@ -1,0 +1,26 @@
+[2025-03-25 14:21:09,571] 18 root - INFO - Models have been loaded..
+[2025-03-25 14:21:11,573] 24 root - INFO - Arduino connected..
+[2025-03-25 14:21:13,729] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-25 14:21:17,603] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-25 14:21:17,636] 59 root - INFO - Command 'H' received response: Received Command: H.
+[2025-03-25 14:21:17,653] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-25 14:21:18,131] 59 root - INFO - Command 'C' received response: Received Command: C.
+[2025-03-25 14:21:22,150] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-25 14:21:23,170] 59 root - INFO - Command 'O' received response: Received Command: O.
+[2025-03-25 14:21:23,196] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-25 14:21:23,313] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 14:21:24,338] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-25 14:21:24,470] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-25 14:21:25,479] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-25 14:21:27,527] 59 root - INFO - Command 'MOVE_SINGLE' received response: Received Command: MOVE_SINGLE.
+[2025-03-25 14:21:33,594] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:21:45,856] 59 root - INFO - Command 'FLAG_4' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-25 14:21:47,858] 59 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-25 14:21:51,951] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:22:04,090] 59 root - INFO - Command 'FLAG_4' received response: Received Command: FLAG_4.
+[2025-03-25 14:22:06,091] 59 root - INFO - Command 'MOVE_MULTI' received response: Received Command: MOVE_MULTI.
+[2025-03-25 14:22:10,157] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:22:24,270] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-25 14:22:28,403] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-25 14:22:40,520] 59 root - INFO - Command 'FLAG_4' received response: Rotating plate at 50% speed....
+[2025-03-25 14:22:42,521] 59 root - INFO - Command 'MOVE_MULTI' received response: Received Command: FLAG_4.

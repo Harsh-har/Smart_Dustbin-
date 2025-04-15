@@ -1,0 +1,11 @@
+[2025-02-28 15:45:50,298] 20 root - INFO - models been read..
+[2025-02-28 15:45:52,300] 26 root - INFO - arduino got connected..
+[2025-02-28 15:45:55,011] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:45:57,417] 44 root - INFO - Command 'O' been sent to arduino.
+[2025-02-28 15:46:00,424] 44 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-02-28 15:46:03,971] 70 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-28 15:46:09,177] 149 root - INFO - 4 been sent.
+[2025-02-28 15:46:14,302] 149 root - INFO - 4 been sent.
+[2025-02-28 15:46:19,421] 149 root - INFO - 4 been sent.
+[2025-02-28 15:46:24,527] 149 root - INFO - 4 been sent.
+[2025-02-28 15:46:29,632] 149 root - INFO - 4 been sent.

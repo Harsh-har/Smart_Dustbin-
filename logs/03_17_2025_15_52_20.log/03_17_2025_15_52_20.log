@@ -1,0 +1,20 @@
+[2025-03-17 15:52:20,214] 18 root - INFO - Models have been loaded..
+[2025-03-17 15:52:22,217] 24 root - INFO - Arduino connected..
+[2025-03-17 15:52:24,310] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 15:52:26,393] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 15:52:26,434] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-17 15:52:26,560] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 15:52:27,595] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-17 15:52:27,727] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 15:52:28,740] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-17 15:52:30,778] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 15:52:40,908] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:52:53,123] 59 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-17 15:53:02,206] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:53:14,310] 173 root - INFO - Ignored large bounding box: (8, 4, 348, 506) and class nonbiogasready.
+[2025-03-17 15:53:16,314] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 15:53:23,427] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:53:35,542] 59 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-17 15:53:44,719] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 15:53:56,813] 173 root - INFO - Ignored large bounding box: (14, 0, 340, 572) and class nonbiogasready.
+[2025-03-17 15:53:56,820] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_MULTI WITHOUT SPEED.

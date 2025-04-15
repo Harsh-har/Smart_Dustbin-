@@ -1,0 +1,31 @@
+[2025-03-03 18:13:32,319] 20 root - INFO - Models have been loaded..
+[2025-03-03 18:13:34,322] 25 root - INFO - Arduino connected..
+[2025-03-03 18:13:38,006] 72 root - INFO - Class detected: polythene.
+[2025-03-03 18:13:40,024] 42 root - INFO - Command 'H' sent to Arduino.
+[2025-03-03 18:13:42,539] 42 root - INFO - Command 'C' sent to Arduino.
+[2025-03-03 18:13:45,051] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:13:49,064] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:13:53,514] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:13:56,010] 49 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-03 18:13:58,014] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:14:01,292] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:14:05,309] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:09,585] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:13,851] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:18,134] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:22,463] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:24,475] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:14:27,702] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:14:31,709] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:36,033] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:40,276] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:45,635] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:50,031] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:14:52,050] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:14:56,789] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:15:00,794] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:15:05,113] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:15:09,426] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:15:13,764] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:15:18,149] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:15:20,166] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.

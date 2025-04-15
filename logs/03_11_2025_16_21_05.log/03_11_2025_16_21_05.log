@@ -1,0 +1,21 @@
+[2025-03-11 16:21:05,520] 18 root - INFO - Models have been loaded..
+[2025-03-11 16:21:07,523] 24 root - INFO - Arduino connected..
+[2025-03-11 16:21:09,776] 91 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:21:13,309] 57 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 16:21:13,339] 57 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 16:21:17,856] 57 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 16:21:18,880] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 16:21:19,020] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 16:21:20,045] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 16:21:20,178] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 16:21:21,188] 57 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 16:21:23,238] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 16:21:28,446] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:21:40,632] 164 root - INFO - Ignored large bounding box: (234, 0, 687, 596).
+[2025-03-11 16:21:40,637] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 16:21:45,121] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:21:57,220] 164 root - INFO - Ignored large bounding box: (229, 0, 687, 599).
+[2025-03-11 16:21:57,223] 57 root - INFO - Command 'MOVE_MULTI' received response: Starting sequence...44 baar.
+[2025-03-11 16:22:03,764] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:22:15,915] 164 root - INFO - Ignored large bounding box: (226, 0, 686, 597).
+[2025-03-11 16:22:46,146] 64 root - ERROR - Timeout for command MOVE_MULTI.

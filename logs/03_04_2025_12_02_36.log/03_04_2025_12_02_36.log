@@ -1,0 +1,19 @@
+[2025-03-04 12:02:37,105] 22 root - INFO - models been read..
+[2025-03-04 12:02:39,107] 28 root - INFO - arduino got connected..
+[2025-03-04 12:02:41,500] 72 root - INFO - camera shot 'http://192.168.1.103/cam-hi.jpg' done successfully.
+[2025-03-04 12:02:43,135] 84 root - INFO - Class detected: polythene.
+[2025-03-04 12:02:44,138] 46 root - INFO - Command 'H' been sent to arduino.
+[2025-03-04 12:02:45,644] 46 root - INFO - Command 'C' been sent to arduino.
+[2025-03-04 12:02:47,148] 46 root - INFO - Command 'O' been sent to arduino.
+[2025-03-04 12:02:50,155] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:02:53,751] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:02:54,987] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:02:55,991] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:02:59,107] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:03:00,222] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:03:01,224] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:03:04,328] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:03:05,435] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:03:06,441] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:03:09,584] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:03:11,679] 46 root - INFO - Command 'MOVE' been sent to arduino.

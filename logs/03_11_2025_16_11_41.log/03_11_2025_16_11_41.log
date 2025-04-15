@@ -1,0 +1,21 @@
+[2025-03-11 16:11:41,310] 18 root - INFO - Models have been loaded..
+[2025-03-11 16:11:43,312] 24 root - INFO - Arduino connected..
+[2025-03-11 16:11:45,472] 91 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:11:47,024] 57 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 16:11:47,063] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 16:11:47,201] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 16:11:48,227] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 16:11:48,358] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 16:11:49,367] 57 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 16:11:51,416] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 16:11:56,707] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:12:08,942] 164 root - INFO - Ignored large bounding box: (220, 0, 688, 598).
+[2025-03-11 16:12:08,947] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 16:12:13,215] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:12:25,445] 73 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-11 16:12:26,447] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 16:12:32,448] 57 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....
+[2025-03-11 16:12:34,893] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:12:47,148] 73 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-11 16:12:48,149] 57 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at 50% speed....
+[2025-03-11 16:12:54,152] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....

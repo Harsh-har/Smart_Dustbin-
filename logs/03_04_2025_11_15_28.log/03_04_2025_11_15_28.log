@@ -1,0 +1,54 @@
+[2025-03-04 11:15:28,222] 22 root - INFO - Models have been loaded..
+[2025-03-04 11:15:30,225] 27 root - INFO - Arduino connected..
+[2025-03-04 11:15:34,057] 44 root - INFO - Command 'O' sent to Arduino: \U0001f680 System Ready. Waiting for commands....
+[2025-03-04 11:15:34,058] 155 root - INFO - Starting Cycle 1....
+[2025-03-04 11:15:36,070] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:15:39,645] 44 root - INFO - Command 'MOVE' sent to Arduino: Starting sequence....
+[2025-03-04 11:15:40,648] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: Rotating plate at full speed....
+[2025-03-04 11:15:42,664] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:15:47,059] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:15:49,073] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:15:51,086] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:15:53,614] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:15:55,628] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:15:57,633] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:00,181] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:16:01,184] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:16:03,202] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:05,556] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:16:07,575] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:09,582] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:12,785] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:16:14,802] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:16,808] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:20,977] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:16:22,988] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:25,001] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:29,259] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:31,263] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:32,267] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:16:34,694] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:16:36,700] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:38,709] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:41,078] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:16:43,094] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:44,141] 44 root - INFO - Command 'MOVE' sent to Arduino: Starting sequence....
+[2025-03-04 11:16:47,589] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at full speed....
+[2025-03-04 11:16:49,594] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:50,982] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:16:53,341] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:16:55,344] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:16:57,351] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:16:59,785] 50 root - INFO - Flag '4' sent. ESP8266 Response: â\x9c\x85 Flag received: 4.
+[2025-03-04 11:17:01,794] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:17:02,797] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:17:07,038] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:17:09,056] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:17:11,072] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:17:14,329] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:17:16,338] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:17:18,345] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:17:22,616] 44 root - INFO - Command 'MOVE' sent to Arduino: .
+[2025-03-04 11:17:24,623] 44 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino: .
+[2025-03-04 11:17:25,624] 44 root - INFO - Command 'MOVE' sent to Arduino: Rotating plate at 50% speed....
+[2025-03-04 11:17:29,843] 44 root - INFO - Command 'MOVE' sent to Arduino: .

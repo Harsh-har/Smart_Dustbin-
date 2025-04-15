@@ -1,0 +1,16 @@
+[2025-03-04 12:13:09,887] 22 root - INFO - models been read..
+[2025-03-04 12:13:11,890] 28 root - INFO - arduino got connected..
+[2025-03-04 12:13:15,034] 72 root - INFO - camera shot 'http://192.168.1.103/cam-hi.jpg' done successfully.
+[2025-03-04 12:13:17,455] 46 root - INFO - Command 'O' been sent to arduino.
+[2025-03-04 12:13:20,462] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:23,690] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:13:24,913] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:25,917] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:29,019] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:13:30,122] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:31,127] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:34,392] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:13:35,491] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:37,507] 46 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:13:40,591] 72 root - INFO - camera shot 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-04 12:13:42,709] 46 root - INFO - Command 'MOVE' been sent to arduino.

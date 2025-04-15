@@ -1,0 +1,25 @@
+[2025-03-03 14:47:22,977] 18 root - INFO - models been read..
+[2025-03-03 14:47:24,980] 24 root - INFO - arduino got connected..
+[2025-03-03 14:47:28,089] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 14:47:29,494] 80 root - INFO - Class detected: {detected_class}.
+[2025-03-03 14:47:30,499] 42 root - INFO - Command 'H' been sent to arduino.
+[2025-03-03 14:47:32,004] 42 root - INFO - Command 'C' been sent to arduino.
+[2025-03-03 14:47:33,509] 42 root - INFO - Command 'O' been sent to arduino.
+[2025-03-03 14:47:36,516] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 14:47:40,486] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 14:47:40,852] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 14:47:40,853] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 14:47:41,857] 42 root - INFO - Command 'HAND_MOTOR:[5]' been sent to arduino.
+[2025-03-03 14:47:44,862] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 14:47:46,869] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 14:47:50,022] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 14:47:50,191] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 14:47:50,191] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 14:47:51,195] 42 root - INFO - Command 'HAND_MOTOR:[4]' been sent to arduino.
+[2025-03-03 14:47:54,200] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.
+[2025-03-03 14:47:56,206] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-03 14:47:59,421] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-03 14:47:59,588] 50 root - INFO - response '{response.text}' been sent..
+[2025-03-03 14:47:59,588] 138 root - INFO - {selected_flag} been sent.
+[2025-03-03 14:48:00,592] 42 root - INFO - Command 'HAND_MOTOR:[5, 5]' been sent to arduino.
+[2025-03-03 14:48:03,598] 42 root - INFO - Command 'HAND_MOTOR:RESET' been sent to arduino.

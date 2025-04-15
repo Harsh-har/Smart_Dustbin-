@@ -1,0 +1,24 @@
+[2025-03-04 16:35:14,248] 18 root - INFO - Models have been loaded..
+[2025-03-04 16:35:16,252] 24 root - INFO - Arduino connected..
+[2025-03-04 16:35:18,409] 67 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:35:20,934] 42 root - INFO - Command 'H' sent to Arduino.
+[2025-03-04 16:35:22,439] 42 root - INFO - Command 'C' sent to Arduino.
+[2025-03-04 16:35:23,943] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-04 16:35:26,950] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:35:30,126] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:35:31,357] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:35:33,363] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:35:36,368] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:35:38,372] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:35:41,475] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:35:42,682] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:35:44,687] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:35:48,696] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:35:51,709] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:35:54,891] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:35:57,046] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:36:00,051] 42 root - INFO - Command 'HAND_MOTOR:[]' sent to Arduino.
+[2025-03-04 16:36:04,062] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-04 16:36:07,081] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-04 16:36:10,241] 67 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-04 16:36:12,396] 42 root - INFO - Command 'MOVE' sent to Arduino.

@@ -1,0 +1,10 @@
+[2025-03-03 17:03:42,859] 29 root - INFO - Models have been loaded..
+[2025-03-03 17:03:44,862] 34 root - INFO - Arduino connected..
+[2025-03-03 17:03:44,862] 128 root - INFO - Starting Garbage Processing....
+[2025-03-03 17:03:49,663] 74 root - INFO - Polythene not detected..
+[2025-03-03 17:03:50,666] 41 root - INFO - Command 'O' sent to Arduino. Response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-03 17:03:52,668] 131 root - INFO - Starting Sorting Mechanism with Red Box Detection....
+[2025-03-03 17:03:53,672] 41 root - INFO - Command 'MOVE' sent to Arduino. Response: Rotating Opening Plate Clockwise.
+[2025-03-03 17:03:57,976] 48 root - INFO - Flag '5' sent to ESP8266. Response: â\x9c\x85 Flag received: 5.
+[2025-03-03 17:03:58,979] 41 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino. Response: Opening Plate Stopped.
+[2025-03-03 17:03:59,981] 133 root - INFO - Process Completed Successfully!.

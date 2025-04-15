@@ -1,0 +1,26 @@
+[2025-03-03 18:00:02,670] 20 root - INFO - Models have been loaded..
+[2025-03-03 18:00:04,673] 25 root - INFO - Arduino connected..
+[2025-03-03 18:00:09,662] 72 root - INFO - Class detected: polythene.
+[2025-03-03 18:00:10,667] 42 root - INFO - Command 'H' sent to Arduino.
+[2025-03-03 18:00:12,172] 42 root - INFO - Command 'C' sent to Arduino.
+[2025-03-03 18:00:13,675] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:00:16,679] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:00:20,073] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:00:22,457] 49 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-03 18:00:23,461] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:00:24,681] 72 root - INFO - Class detected: polythene.
+[2025-03-03 18:00:25,684] 42 root - INFO - Command 'H' sent to Arduino.
+[2025-03-03 18:00:27,187] 42 root - INFO - Command 'C' sent to Arduino.
+[2025-03-03 18:00:28,692] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:00:31,699] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:00:34,403] 49 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-03 18:00:35,406] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:00:38,557] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:00:42,575] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:00:44,938] 49 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-03 18:00:46,951] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 18:00:50,222] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 18:00:53,228] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:00:57,544] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:01:01,894] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 18:01:05,250] 42 root - INFO - Command 'MOVE' sent to Arduino.

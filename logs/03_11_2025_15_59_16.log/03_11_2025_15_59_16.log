@@ -1,0 +1,23 @@
+[2025-03-11 15:59:16,866] 18 root - INFO - Models have been loaded..
+[2025-03-11 15:59:18,869] 24 root - INFO - Arduino connected..
+[2025-03-11 15:59:21,011] 91 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:59:23,042] 57 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 15:59:23,080] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 15:59:23,220] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 15:59:24,246] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 15:59:24,379] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 15:59:25,388] 57 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 15:59:27,439] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 15:59:32,682] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 15:59:44,873] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 15:59:49,121] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:00:01,238] 57 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 16:00:06,396] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:00:18,551] 57 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....
+[2025-03-11 16:00:22,801] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:00:34,956] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at 50% speed....
+[2025-03-11 16:00:39,213] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:01:21,578] 64 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-11 16:01:26,046] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 16:02:08,460] 64 root - ERROR - Timeout for command MOVE_MULTI.
+[2025-03-11 16:02:12,868] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

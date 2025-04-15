@@ -1,0 +1,26 @@
+[2025-03-17 16:26:45,294] 18 root - INFO - Models have been loaded..
+[2025-03-17 16:26:47,306] 24 root - INFO - Arduino connected..
+[2025-03-17 16:26:49,544] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 16:26:52,915] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 16:26:52,948] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-17 16:26:57,466] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-17 16:26:58,480] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-17 16:26:58,629] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 16:26:59,641] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-17 16:26:59,781] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 16:27:00,794] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-17 16:27:02,842] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 16:27:09,025] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 16:27:21,226] 173 root - INFO - Ignored large bounding box: (0, 0, 668, 600) and class nonbiogasready.
+[2025-03-17 16:27:21,236] 59 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-17 16:27:27,458] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 16:27:39,567] 173 root - INFO - Ignored large bounding box: (5, 0, 343, 510) and class nonbiogasready.
+[2025-03-17 16:27:41,573] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 16:27:45,746] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 16:27:57,900] 173 root - INFO - Ignored large bounding box: (17, 0, 346, 504) and class nonbiogasready.
+[2025-03-17 16:27:57,908] 59 root - INFO - Command 'FLAG_4' received response: Rotating plate at full speed....
+[2025-03-17 16:27:59,909] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-17 16:28:04,115] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 16:28:16,219] 173 root - INFO - Ignored large bounding box: (25, 0, 342, 505) and class nonbiogasready.
+[2025-03-17 16:28:16,226] 59 root - INFO - Command 'FLAG_4' received response: Rotating plate at 50% speed....
+[2025-03-17 16:28:18,229] 59 root - INFO - Command 'MOVE_MULTI' received response: MOVE_MULTI WITHOUT SPEED.

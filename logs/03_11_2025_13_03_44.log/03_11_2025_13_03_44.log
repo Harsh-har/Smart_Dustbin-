@@ -1,0 +1,21 @@
+[2025-03-11 13:03:44,699] 18 root - INFO - Models have been loaded..
+[2025-03-11 13:03:46,702] 24 root - INFO - Arduino connected..
+[2025-03-11 13:03:48,830] 91 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:03:50,232] 57 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 13:03:50,270] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 13:03:50,409] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 13:03:51,436] 57 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 13:03:51,568] 57 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 13:03:52,578] 57 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 13:03:56,763] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:03:56,812] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 13:04:09,004] 164 root - INFO - Ignored large bounding box: (237, 0, 658, 589).
+[2025-03-11 13:04:09,010] 57 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 13:04:13,272] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:04:13,275] 57 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 13:04:25,376] 164 root - INFO - Ignored large bounding box: (238, 0, 645, 577).
+[2025-03-11 13:04:25,381] 57 root - INFO - Command 'MOVE_MULTI' received response: Resuming MULTI_SINGLE....
+[2025-03-11 13:04:30,488] 108 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 13:04:30,491] 57 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at 50% speed....
+[2025-03-11 13:04:42,599] 164 root - INFO - Ignored large bounding box: (238, 0, 644, 586).
+[2025-03-11 13:05:12,833] 64 root - ERROR - Timeout for command MOVE_MULTI.

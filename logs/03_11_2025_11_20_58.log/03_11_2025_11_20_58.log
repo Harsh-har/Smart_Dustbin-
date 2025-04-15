@@ -1,0 +1,22 @@
+[2025-03-11 11:20:58,880] 18 root - INFO - Models have been loaded..
+[2025-03-11 11:21:00,883] 24 root - INFO - Arduino connected..
+[2025-03-11 11:21:06,777] 81 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:21:11,492] 47 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-11 11:21:11,520] 47 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-11 11:21:16,040] 47 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-11 11:21:17,063] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-11 11:21:17,204] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:21:18,227] 47 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-11 11:21:18,361] 47 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-11 11:21:19,372] 47 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-11 11:21:24,554] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:21:37,161] 63 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-11 11:21:38,211] 47 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-11 11:21:44,217] 47 root - INFO - Command 'MOVE_MULTI' received response: Rotating plate at full speed....
+[2025-03-11 11:21:46,341] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:21:58,578] 47 root - INFO - Command 'STOP' received response: MOVE_MULTI WITHOUT SPEED.
+[2025-03-11 11:21:58,581] 47 root - INFO - Command 'MOVE_MULTI' received response: Resuming MOVE_SINGLE....
+[2025-03-11 11:22:02,706] 98 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-11 11:22:15,018] 63 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent..
+[2025-03-11 11:22:16,024] 47 root - INFO - Command 'MOVE_SINGLE' received response: Rotating plate at full speed....
+[2025-03-11 11:22:22,029] 47 root - INFO - Command 'MOVE_MULTI' received response: Resuming MOVE_SINGLE....

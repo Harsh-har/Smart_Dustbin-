@@ -1,0 +1,9 @@
+[2025-03-04 12:24:58,775] 18 root - INFO - models been read..
+[2025-03-04 12:25:00,777] 24 root - INFO - arduino got connected..
+[2025-03-04 12:25:03,184] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-03-04 12:25:05,549] 42 root - INFO - Command 'O' been sent to arduino.
+[2025-03-04 12:25:08,555] 42 root - INFO - Command 'MOVE' been sent to arduino.
+[2025-03-04 12:25:15,449] 93 root - INFO - Clicked at: (207, 154).
+[2025-03-04 12:25:17,000] 93 root - INFO - Clicked at: (174, 339).
+[2025-03-04 12:25:18,536] 93 root - INFO - Clicked at: (395, 340).
+[2025-03-04 12:25:20,077] 93 root - INFO - Clicked at: (401, 178).

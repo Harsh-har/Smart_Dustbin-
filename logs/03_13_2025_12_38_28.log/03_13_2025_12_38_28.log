@@ -1,0 +1,15 @@
+[2025-03-13 12:38:28,404] 18 root - INFO - Models have been loaded..
+[2025-03-13 12:38:30,407] 24 root - INFO - Arduino connected..
+[2025-03-13 12:38:32,550] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 12:38:35,990] 59 root - INFO - Command 'H' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 12:38:36,019] 59 root - INFO - Command 'H' received response: Hand Pressure Activated.
+[2025-03-13 12:38:40,539] 59 root - INFO - Command 'C' received response: Cutter Complete.
+[2025-03-13 12:38:41,562] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 12:38:41,703] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 12:38:42,729] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 12:38:42,862] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 12:38:43,869] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 12:38:45,920] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 12:38:56,064] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 12:39:08,254] 173 root - INFO - Ignored large bounding box: (0, 0, 694, 600).
+[2025-03-13 12:39:08,255] 173 root - INFO - Ignored large bounding box: (8, 0, 345, 590).

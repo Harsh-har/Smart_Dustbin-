@@ -1,0 +1,9 @@
+[2025-03-17 14:11:30,645] 18 root - INFO - Models have been loaded..
+[2025-03-17 14:11:32,647] 24 root - INFO - Arduino connected..
+[2025-03-17 14:11:34,823] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 14:11:36,243] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 14:12:06,518] 66 root - ERROR - Timeout for command O.
+[2025-03-17 14:12:38,769] 66 root - ERROR - Timeout for command MOVE_SINGLE.
+[2025-03-17 14:12:48,934] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 14:13:01,189] 173 root - INFO - Ignored large bounding box: (5, 1, 338, 507) and class nonbiogasready.
+[2025-03-17 14:13:01,192] 173 root - INFO - Ignored large bounding box: (0, 0, 679, 600) and class nonbiogasready.

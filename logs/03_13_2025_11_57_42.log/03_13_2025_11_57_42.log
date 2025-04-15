@@ -1,0 +1,18 @@
+[2025-03-13 11:57:42,927] 18 root - INFO - Models have been loaded..
+[2025-03-13 11:57:44,930] 24 root - INFO - Arduino connected..
+[2025-03-13 11:57:48,070] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-13 11:57:49,470] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-13 11:57:49,508] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-13 11:57:49,648] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 11:57:50,674] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-13 11:57:50,807] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-13 11:57:51,815] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-13 11:57:53,865] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-13 11:58:04,035] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:58:16,211] 173 root - INFO - Ignored large bounding box: (0, 0, 703, 600).
+[2025-03-13 11:58:16,214] 173 root - INFO - Ignored large bounding box: (13, 4, 342, 600).
+[2025-03-13 11:58:16,398] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 11:58:23,516] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-13 11:58:35,610] 173 root - INFO - Ignored large bounding box: (4, 0, 700, 600).
+[2025-03-13 11:58:35,782] 76 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-13 11:58:42,962] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

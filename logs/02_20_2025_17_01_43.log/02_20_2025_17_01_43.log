@@ -1,0 +1,26 @@
+[2025-02-20 17:01:43,591] 18 root - INFO - models been read..
+[2025-02-20 17:01:45,599] 24 root - INFO - arduino got connected..
+[2025-02-20 17:01:47,731] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 17:01:49,138] 80 root - INFO - Class detected: {detected_class}.
+[2025-02-20 17:01:49,138] 97 root - INFO - first camera did its work.
+[2025-02-20 17:01:50,153] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:01:52,160] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:01:53,207] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:01:56,212] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:01:59,304] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 17:02:00,494] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:03,502] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:05,509] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:08,607] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 17:02:08,895] 50 root - INFO - response '{response.text}' been sent..
+[2025-02-20 17:02:08,895] 136 root - INFO - {selected_flag} been sent.
+[2025-02-20 17:02:09,897] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:13,906] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:15,910] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:19,122] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 17:02:21,238] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:25,250] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:28,256] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:31,392] 68 root - INFO - camera shot '{cam_url}' done successfully.
+[2025-02-20 17:02:32,483] 42 root - INFO - Command '{cmd}' been sent to arduino.
+[2025-02-20 17:02:36,493] 42 root - INFO - Command '{cmd}' been sent to arduino.

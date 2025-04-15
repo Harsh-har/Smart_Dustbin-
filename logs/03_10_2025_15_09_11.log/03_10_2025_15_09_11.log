@@ -1,0 +1,23 @@
+[2025-03-10 15:09:11,613] 18 root - INFO - Models have been loaded..
+[2025-03-10 15:09:13,615] 24 root - INFO - Arduino connected..
+[2025-03-10 15:09:15,747] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:18,236] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 15:09:22,435] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:23,659] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 15:09:24,664] 45 root - INFO - Command 'MOVE_2' sent to Arduino.
+[2025-03-10 15:09:26,925] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:27,347] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:09:28,352] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:09:30,705] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:30,978] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:09:31,981] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:09:34,271] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:34,435] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:09:35,438] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:09:37,643] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:37,824] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:09:38,827] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:09:41,006] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:09:42,111] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 15:09:44,116] 45 root - INFO - Command 'MOVE_2' sent to Arduino.
+[2025-03-10 15:09:46,279] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

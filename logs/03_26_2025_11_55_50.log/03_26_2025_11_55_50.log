@@ -1,0 +1,7 @@
+[2025-03-26 11:55:50,370] 17 root - INFO - Models have been loaded..
+[2025-03-26 11:55:52,502] 76 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-26 11:56:04,138] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='192.168.1.28', port=80): Max retries exceeded with url: /command?cmd=O (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026B29C2D0D0>, 'Connection to 192.168.1.28 timed out. (connect timeout=10)')).
+[2025-03-26 11:56:16,142] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='192.168.1.28', port=80): Max retries exceeded with url: /command?cmd=MOVE_SINGLE (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026B29C2C650>, 'Connection to 192.168.1.28 timed out. (connect timeout=10)')).
+[2025-03-26 11:56:22,262] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..
+[2025-03-26 11:56:44,489] 59 root - ERROR - ESP8266 Communication Error: HTTPConnectionPool(host='192.168.1.28', port=80): Max retries exceeded with url: /command?cmd=MOVE_MULTI (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026B22E9BE30>, 'Connection to 192.168.1.28 timed out. (connect timeout=10)')).
+[2025-03-26 11:56:48,933] 76 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured..

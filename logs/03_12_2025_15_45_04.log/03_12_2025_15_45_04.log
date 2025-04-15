@@ -1,0 +1,9 @@
+[2025-03-12 15:45:04,421] 18 root - INFO - Models have been loaded..
+[2025-03-12 15:45:06,424] 24 root - INFO - Arduino connected..
+[2025-03-12 15:45:08,633] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-12 15:45:10,098] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-12 15:45:10,136] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-12 15:45:10,277] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 15:45:12,309] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-12 15:45:12,442] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-12 15:45:40,714] 66 root - ERROR - Timeout for command O.

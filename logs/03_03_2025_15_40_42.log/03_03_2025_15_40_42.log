@@ -1,0 +1,31 @@
+[2025-03-03 15:40:42,585] 18 root - INFO - Models have been read..
+[2025-03-03 15:40:44,588] 24 root - INFO - Arduino connected..
+[2025-03-03 15:40:47,682] 68 root - INFO - Camera shot from 'http://192.168.1.103/cam-hi.jpg' done successfully.
+[2025-03-03 15:40:49,894] 79 root - INFO - Class detected: polythene.
+[2025-03-03 15:40:50,898] 42 root - INFO - Command 'H' sent to Arduino.
+[2025-03-03 15:40:52,401] 42 root - INFO - Command 'C' sent to Arduino.
+[2025-03-03 15:40:53,906] 42 root - INFO - Command 'O' sent to Arduino.
+[2025-03-03 15:40:56,913] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 15:41:00,120] 68 root - INFO - Camera shot from 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-03 15:41:00,729] 50 root - INFO - Response 'â\x9c\x85 Flag received: 4' sent with flag 4.
+[2025-03-03 15:41:00,731] 143 root - INFO - Flag 4 sent.
+[2025-03-03 15:41:01,735] 42 root - INFO - Command 'HAND_MOTOR:[5, 4]' sent to Arduino.
+[2025-03-03 15:41:04,741] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 15:41:06,747] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 15:41:10,816] 68 root - INFO - Camera shot from 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-03 15:41:11,193] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent with flag 5.
+[2025-03-03 15:41:11,193] 143 root - INFO - Flag 5 sent.
+[2025-03-03 15:41:12,196] 42 root - INFO - Command 'HAND_MOTOR:[5]' sent to Arduino.
+[2025-03-03 15:41:15,201] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 15:41:17,207] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 15:41:20,390] 68 root - INFO - Camera shot from 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-03 15:41:20,646] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent with flag 5.
+[2025-03-03 15:41:20,646] 143 root - INFO - Flag 5 sent.
+[2025-03-03 15:41:21,651] 42 root - INFO - Command 'HAND_MOTOR:[5]' sent to Arduino.
+[2025-03-03 15:41:24,657] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-03-03 15:41:27,676] 42 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-03 15:41:31,279] 68 root - INFO - Camera shot from 'http://192.168.1.104/cam-hi.jpg' done successfully.
+[2025-03-03 15:41:31,575] 50 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent with flag 5.
+[2025-03-03 15:41:31,575] 143 root - INFO - Flag 5 sent.
+[2025-03-03 15:41:32,580] 42 root - INFO - Command 'HAND_MOTOR:[5]' sent to Arduino.
+[2025-03-03 15:41:36,587] 42 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.

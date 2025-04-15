@@ -1,0 +1,26 @@
+[2025-03-17 13:48:17,160] 18 root - INFO - Models have been loaded..
+[2025-03-17 13:48:19,164] 24 root - INFO - Arduino connected..
+[2025-03-17 13:48:21,380] 95 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured..
+[2025-03-17 13:48:24,224] 59 root - INFO - Command 'O' received response: \U0001f680 System Ready. Waiting for commands....
+[2025-03-17 13:48:24,266] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Clockwise.
+[2025-03-17 13:48:24,401] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 13:48:25,433] 59 root - INFO - Command 'O' received response: Rotating Opening Plate Counterclockwise.
+[2025-03-17 13:48:25,567] 59 root - INFO - Command 'O' received response: Opening Plate Stopped.
+[2025-03-17 13:48:26,577] 59 root - INFO - Command 'O' received response: Plate Rotation Completed.
+[2025-03-17 13:48:28,628] 59 root - INFO - Command 'MOVE_SINGLE' received response: MOVE_SINGLE WITH SPEED ....
+[2025-03-17 13:48:38,803] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:48:51,202] 173 root - INFO - Ignored large bounding box: (6, 0, 340, 581) and class nonbiogasready.
+[2025-03-17 13:48:51,205] 173 root - INFO - Ignored large bounding box: (1, 0, 667, 600) and class nonbiogasready.
+[2025-03-17 13:48:51,211] 59 root - INFO - Command 'FLAG_5' received response: Rotating plate at full speed....
+[2025-03-17 13:49:00,355] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:49:12,597] 173 root - INFO - Ignored large bounding box: (5, 0, 339, 550) and class nonbiogasready.
+[2025-03-17 13:49:12,597] 173 root - INFO - Ignored large bounding box: (0, 0, 673, 600) and class nonbiogasready.
+[2025-03-17 13:49:42,864] 66 root - ERROR - Timeout for command FLAG_5.
+[2025-03-17 13:49:51,988] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:50:04,312] 173 root - INFO - Ignored large bounding box: (7, 0, 336, 599) and class nonbiogasready.
+[2025-03-17 13:50:04,312] 173 root - INFO - Ignored large bounding box: (0, 0, 673, 600) and class nonbiogasready.
+[2025-03-17 13:50:34,522] 66 root - ERROR - Timeout for command FLAG_5.
+[2025-03-17 13:50:43,667] 113 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-17 13:50:55,912] 173 root - INFO - Ignored large bounding box: (7, 0, 341, 521) and class nonbiogasready.
+[2025-03-17 13:50:55,912] 173 root - INFO - Ignored large bounding box: (0, 0, 669, 600) and class nonbiogasready.
+[2025-03-17 13:51:26,134] 66 root - ERROR - Timeout for command FLAG_5.

@@ -1,0 +1,22 @@
+[2025-03-10 15:36:29,951] 18 root - INFO - Models have been loaded..
+[2025-03-10 15:36:31,954] 24 root - INFO - Arduino connected..
+[2025-03-10 15:36:34,172] 71 root - INFO - Camera shot 'http://192.168.1.103/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:36,589] 45 root - INFO - Command 'O' sent to Arduino.
+[2025-03-10 15:36:41,118] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:41,509] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:36:42,512] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:36:44,656] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:44,915] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:36:45,918] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:36:48,324] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:48,501] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:36:49,505] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:36:51,767] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:52,861] 45 root - INFO - Command 'STOP' sent to Arduino.
+[2025-03-10 15:36:54,970] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:55,202] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:36:56,205] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:36:58,433] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.
+[2025-03-10 15:36:58,610] 53 root - INFO - Response 'â\x9c\x85 Flag received: 5' sent..
+[2025-03-10 15:36:59,613] 45 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-03-10 15:37:01,691] 88 root - INFO - Camera shot 'http://192.168.1.104/cam-hi.jpg' captured with bounding box.

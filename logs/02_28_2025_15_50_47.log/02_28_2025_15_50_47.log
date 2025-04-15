@@ -1,0 +1,8 @@
+[2025-02-28 15:50:47,224] 18 root - INFO - Models loaded..
+[2025-02-28 15:50:49,227] 24 root - INFO - Arduino connected..
+[2025-02-28 15:50:53,881] 40 root - INFO - Command 'O' sent to Arduino.
+[2025-02-28 15:50:56,887] 40 root - INFO - Command 'MOVE' sent to Arduino.
+[2025-02-28 15:51:05,277] 48 root - ERROR - Error communicating with ESP8266: HTTPConnectionPool(host='192.168.1.31', port=80): Max retries exceeded with url: /flag?value=4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026C4068C4D0>, 'Connection to 192.168.1.31 timed out. (connect timeout=5)')).
+[2025-02-28 15:51:06,280] 40 root - INFO - Command 'HAND_MOTOR:4' sent to Arduino.
+[2025-02-28 15:51:09,285] 40 root - INFO - Command 'HAND_MOTOR:RESET' sent to Arduino.
+[2025-02-28 15:51:10,288] 115 root - INFO - Process Completed Successfully!.
