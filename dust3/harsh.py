@@ -283,8 +283,7 @@ def loop(cam_2):
         time.sleep(2) # Give a small delay after flushing
 
     print("✅ loop Completed Successfully!")
-
-
+    
 
 
 
